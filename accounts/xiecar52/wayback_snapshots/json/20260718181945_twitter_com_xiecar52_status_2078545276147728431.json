@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078545276147728431",
+    "created_at": "2026-07-18T18:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078545276147728431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2068179877334016000",
+          "start": 3,
+          "username": "kenrobbcrazyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078545276147728431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078536409653346481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kenrobbcrazyy: 谁有Winit420 的联系方式？？紧急 他在广西南宁白沙大桥附近跳江了！如有线索和知情者请联系我 万分感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078545276147728431",
+        "created_at": "2026-07-18T18:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078545276147728431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2068179877334016000",
+              "start": 3,
+              "username": "kenrobbcrazyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078545276147728431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078536409653346481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kenrobbcrazyy: 谁有Winit420 的联系方式？？紧急 他在广西南宁白沙大桥附近跳江了！如有线索和知情者请联系我 万分感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068179877334016000",
+        "conversation_id": "2078536409653346481",
+        "created_at": "2026-07-18T17:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078536409653346481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078536409653346481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁有Winit420 的联系方式？？紧急 他在广西南宁白沙大桥附近跳江了！如有线索和知情者请联系我 万分感谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 158,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/yN1sBv8r0G"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "药物百科流亡政府",
+        "pinned_tweet_id": "2074700150166167980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 24,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/yN1sBv8r0G",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      }
+    ]
+  }
+}

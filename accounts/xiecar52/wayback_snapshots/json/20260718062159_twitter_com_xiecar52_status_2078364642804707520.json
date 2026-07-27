@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078349956268834979",
+    "created_at": "2026-07-18T06:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078364642804707520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1844356739539533829",
+          "start": 0,
+          "username": "xccpma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078364642804707520",
+    "in_reply_to_user_id": "1844356739539533829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078349956268834979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xccpma 注意身体哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078349891383029760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfINvLbcAAV5UJ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2078349891378745344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfINvKaEAAFP2X.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078349956268834979",
+        "created_at": "2026-07-18T06:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078364642804707520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078364642804707520",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078349956268834979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 注意身体哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078349891383029760",
+            "3_2078349891378745344"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2078349956268834979",
+        "created_at": "2026-07-18T05:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078349956268834979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V1oHCxg6iQ",
+              "end": 86,
+              "expanded_url": "https://x.com/xccpma/status/2078349956268834979/photo/1",
+              "media_key": "3_2078349891383029760",
+              "start": 63,
+              "url": "https://t.co/V1oHCxg6iQ"
+            },
+            {
+              "display_url": "pic.x.com/V1oHCxg6iQ",
+              "end": 86,
+              "expanded_url": "https://x.com/xccpma/status/2078349956268834979/photo/1",
+              "media_key": "3_2078349891378745344",
+              "start": 63,
+              "url": "https://t.co/V1oHCxg6iQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078349956268834979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哎，好可惜，下个学期就该注销了\n\n这次复查肌酐快2千终于可以自由了吗🥰先治疗一段时间看看吧，一定合理用药，希望你们过得幸福😊 https://t.co/V1oHCxg6iQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 135,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 209,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

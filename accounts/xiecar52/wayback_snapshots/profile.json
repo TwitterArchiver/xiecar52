@@ -1,0 +1,29 @@
+{
+  "name": "xiecar",
+  "username": "@xiecar52",
+  "bio": "喵。 互fo 欢迎没事干找我聊天（我要无聊死了） 防失联小号@xiecar520 ngl开了，欢迎提问喵 Telegram:http://t.me/xiecar",
+  "location": "",
+  "link": "https://ngl.link/xiecar",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 40,
+        "start": 30,
+        "username": "xiecar520"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/xiecar",
+        "end": 85,
+        "expanded_url": "http://t.me/xiecar",
+        "start": 62,
+        "url": "https://t.co/SvlMj1KSFy"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg"
+}

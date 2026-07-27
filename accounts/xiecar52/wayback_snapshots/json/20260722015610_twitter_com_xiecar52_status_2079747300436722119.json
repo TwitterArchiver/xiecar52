@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079746015134130176"
+      ]
+    },
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079747300436722119",
+    "created_at": "2026-07-22T01:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079747300436722119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1fjvbb4qxv",
+          "end": 29,
+          "expanded_url": "https://x.com/xiecar52/status/2079747300436722119/photo/1",
+          "media_key": "3_2079746015134130176",
+          "start": 6,
+          "url": "https://t.co/1fjvbb4qxv"
+        },
+        {
+          "display_url": "x.com/KitsuMio7/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/KitsuMio7/status/2079281921969013179",
+          "start": 30,
+          "url": "https://t.co/tC7SawQQTV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079747300436722119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079281921969013179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "终于封了喵 https://t.co/1fjvbb4qxv https://t.co/tC7SawQQTV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2079746015134130176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy9-1caoAAnHzj.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079281912527650816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsX4ggbAAAZ-tL.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079746015134130176"
+          ]
+        },
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079747300436722119",
+        "created_at": "2026-07-22T01:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079747300436722119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fjvbb4qxv",
+              "end": 29,
+              "expanded_url": "https://x.com/xiecar52/status/2079747300436722119/photo/1",
+              "media_key": "3_2079746015134130176",
+              "start": 6,
+              "url": "https://t.co/1fjvbb4qxv"
+            },
+            {
+              "display_url": "x.com/KitsuMio7/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/KitsuMio7/status/2079281921969013179",
+              "start": 30,
+              "url": "https://t.co/tC7SawQQTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079747300436722119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079281921969013179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于封了喵 https://t.co/1fjvbb4qxv https://t.co/tC7SawQQTV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079281912527650816"
+          ]
+        },
+        "author_id": "2060679315126439936",
+        "conversation_id": "2079281921969013179",
+        "created_at": "2026-07-20T19:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079281921969013179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "2066567281711431681",
+              "start": 22,
+              "username": "Glaxyplayer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXoubzFP2M",
+              "end": 58,
+              "expanded_url": "https://x.com/KitsuMio7/status/2079281921969013179/photo/1",
+              "media_key": "3_2079281912527650816",
+              "start": 35,
+              "url": "https://t.co/AXoubzFP2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079281921969013179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5612,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "您究竟是为什么对 MtF 有这么大恶意呢？\n@Glaxyplayer https://t.co/AXoubzFP2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 82,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 59,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 285,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT 2023 | ENTP | ASD | ADHD | BPD | DID | 早发性性别不一致 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反性别认同解构 | 碎碎念@KitsuMio79 | 同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "KitsuMio79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074764007295385600/5PZFNtiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1218,
+          "like_count": 2347,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "KitsuMio7",
+        "verified": true
+      }
+    ]
+  }
+}

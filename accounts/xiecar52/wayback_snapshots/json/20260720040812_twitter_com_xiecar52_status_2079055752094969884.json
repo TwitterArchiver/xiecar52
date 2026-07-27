@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079027688413806821",
+    "created_at": "2026-07-20T04:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079055752094969884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1472419244126388226",
+          "start": 0,
+          "username": "Fubuki_027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079055752094969884",
+    "in_reply_to_user_id": "1472419244126388226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079027688413806821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fubuki_027 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2079027639873122304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNown5DbMAA1ekQ.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079027688413806821",
+        "created_at": "2026-07-20T04:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079055752094969884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1472419244126388226",
+              "start": 0,
+              "username": "Fubuki_027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079055752094969884",
+        "in_reply_to_user_id": "1472419244126388226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079027688413806821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fubuki_027 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079027639873122304"
+          ]
+        },
+        "author_id": "1472419244126388226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079027688413806821",
+        "created_at": "2026-07-20T02:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079027688413806821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HhvpvG5Ccx",
+              "end": 45,
+              "expanded_url": "https://x.com/Fubuki_027/status/2079027688413806821/photo/1",
+              "media_key": "3_2079027639873122304",
+              "start": 22,
+              "url": "https://t.co/HhvpvG5Ccx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079027688413806821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "400fo，我在中推圈也能小有名气了吗…… https://t.co/HhvpvG5Ccx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 213,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T04:11:30.000Z",
+        "description": "🏳️‍⚧️我喜欢你🏳️‍⚧️ | INFP | MtX | 无证含糖 | 已炸柜家暴党 | 重生日2026.5.8 | 小号 @Rinfen_027 | 山东省内援交 | 请多指教🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Rinfen_027"
+              }
+            ]
+          }
+        },
+        "id": "1472419244126388226",
+        "name": "Rinfen27.🍥",
+        "pinned_tweet_id": "2079027688413806821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066320077000228864/GiHJ7Exj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1519,
+          "like_count": 4242,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 2665
+        },
+        "url": "",
+        "username": "Fubuki_027",
+        "verified": false
+      }
+    ]
+  }
+}

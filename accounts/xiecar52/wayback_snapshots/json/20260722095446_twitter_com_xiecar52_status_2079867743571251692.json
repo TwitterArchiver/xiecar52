@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079836240728485903",
+    "created_at": "2026-07-22T09:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079867743571251692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079867743571251692",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079836240728485903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 晚安…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079836240728485903",
+        "created_at": "2026-07-22T09:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079867743571251692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079867743571251692",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079836240728485903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 晚安…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2079836240728485903",
+        "created_at": "2026-07-22T07:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079836240728485903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079836240728485903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3629,
+          "like_count": 59,
+          "quote_count": 5,
+          "reply_count": 46,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n\n此号号主于22号凌晨\n因突发呼吸抑制去世\n\n我是此号亲友，欠的稿件钱抱歉退还不了了真的很抱歉我不知道怎么补偿你们。对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 82,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 59,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 293,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2079836240728485903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079395599175282688/C130gJKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 217,
+          "like_count": 228,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 1022
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

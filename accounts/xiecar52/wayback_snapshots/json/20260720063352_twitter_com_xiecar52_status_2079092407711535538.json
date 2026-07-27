@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078825048279069139",
+    "created_at": "2026-07-20T06:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079092407711535538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766407744536420352",
+          "start": 0,
+          "username": "ScarsTowel616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079092407711535538",
+    "in_reply_to_user_id": "1766407744536420352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078825048279069139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarsTowel616 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078825048279069139",
+        "created_at": "2026-07-20T06:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079092407711535538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766407744536420352",
+              "start": 0,
+              "username": "ScarsTowel616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079092407711535538",
+        "in_reply_to_user_id": "1766407744536420352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078825048279069139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarsTowel616 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766407744536420352",
+        "conversation_id": "2078825048279069139",
+        "created_at": "2026-07-19T12:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078825048279069139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078825048279069139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 719,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cnm的煞笔家长为什么在我拿快递的时候出现好讨厌好讨厌好讨厌我的碳酸钡被拿走了\n问我这个是干嘛的\n赶紧去死吧\n好讨厌\n让我一个人待着都不行吗\n为什么要这样子对我\n好想死为什么不能让我去死\n我恨你们\n自以为很了解我\n把我束缚在你们手里很爽是吗\n让我去死吧\n求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 221,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T10:16:47.000Z",
+        "description": "一只笨蛋超大只疯子|紫残|戒o…？|MTF/X🏳️‍⚧️|炸柜（家暴党，大概）|无证含糖|出厂日期:2009.06.16|HRT:2026.3.6|断糖:2026.6.29|发一些负能碎碎念…|同类互fo喵|好闺蜜/好姐姐：@kuaizichopstick",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 112,
+                "username": "kuaizichopstick"
+              }
+            ]
+          }
+        },
+        "id": "1766407744536420352",
+        "location": "site 02",
+        "name": "毛巾sama🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2067950659979415711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 613,
+          "like_count": 1824,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1063
+        },
+        "url": "",
+        "username": "ScarsTowel616",
+        "verified": false
+      }
+    ]
+  }
+}

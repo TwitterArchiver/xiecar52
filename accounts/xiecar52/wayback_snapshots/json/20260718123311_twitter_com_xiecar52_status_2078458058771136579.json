@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078458058771136579",
+    "created_at": "2026-07-18T12:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078458058771136579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024068861134528512",
+          "start": 3,
+          "username": "1gdsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078458058771136579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077300686853992684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1gdsb: 400fo大抽奖🎉\n200fo300fo都和这次合到一起了😢\n特等奖 \n😳甲级吧1个——1份（可折10r到底为什么要抽这个）\n一等奖 \n🍥鱼板1个——5份（可折2r）\n二等奖 \n人体彩绘——9份（可折1r）\n隐藏奖\n特殊人体彩绘——2份（😈这个不给折）\n🥵…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077300679924994048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQN9l6bUAAXDBg.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078458058771136579",
+        "created_at": "2026-07-18T12:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078458058771136579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024068861134528512",
+              "start": 3,
+              "username": "1gdsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078458058771136579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077300686853992684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1gdsb: 400fo大抽奖🎉\n200fo300fo都和这次合到一起了😢\n特等奖 \n😳甲级吧1个——1份（可折10r到底为什么要抽这个）\n一等奖 \n🍥鱼板1个——5份（可折2r）\n二等奖 \n人体彩绘——9份（可折1r）\n隐藏奖\n特殊人体彩绘——2份（😈这个不给折）\n🥵…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077300679924994048"
+          ]
+        },
+        "author_id": "2024068861134528512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077300686853992684",
+        "created_at": "2026-07-15T07:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077300686853992684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ng0WBsoQsb",
+              "end": 193,
+              "expanded_url": "https://x.com/1gdsb/status/2077300686853992684/photo/1",
+              "media_key": "3_2077300679924994048",
+              "start": 170,
+              "url": "https://t.co/Ng0WBsoQsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077300686853992684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "400fo大抽奖🎉\n200fo300fo都和这次合到一起了😢\n特等奖 \n😳甲级吧1个——1份（可折10r到底为什么要抽这个）\n一等奖 \n🍥鱼板1个——5份（可折2r）\n二等奖 \n人体彩绘——9份（可折1r）\n隐藏奖\n特殊人体彩绘——2份（😈这个不给折）\n🥵想要在我身上留下属于你的记号吗 \n现在就是机会😋\n参与条件: \n关注➕ \n点赞❤️ \n转贴🔁\n\n感谢大家 ❤️\n将于2026年7月20日用Grok开奖\n最终解释权归我所有😋\n折现只可微信支付"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5224,
+          "like_count": 82,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "400fo大抽奖🎉\n200fo300fo都和这次合到一起了😢\n特等奖 \n😳甲级吧1个——1份（可折10r到底为什么要抽这个）\n一等奖 \n🍥鱼板1个——5份（可折2r）\n二等奖 \n人体彩绘——9份（可折1r）\n隐藏奖\n特殊人体彩绘——2份（😈这个不给折）\n🥵想要在我身上留下属于你的记号吗 \n现在就是机会😋\n参与条件: \n关注➕ \n点赞❤️ https://t.co/Ng0WBsoQsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 146,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "mtf/x？ 缺爱？抖m？ 🚪0r🥺一分不用\n不o不割纯发癫 我决定只发正常的东西了发疯的东西都去我草稿箱待着吧😋\n天残年龄党\n小号@ovvvvvvvvvvomtf\n出厂日期2011.8.31（开学前一天悲:(\n身高179 57.4kg\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "ovvvvvvvvvvomtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2077300686853992684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 537,
+          "like_count": 3201,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 1861
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": true
+      }
+    ]
+  }
+}

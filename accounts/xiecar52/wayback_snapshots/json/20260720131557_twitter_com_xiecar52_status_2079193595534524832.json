@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079193595534524832",
+    "created_at": "2026-07-20T13:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079193595534524832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999862284500488192",
+          "start": 3,
+          "username": "Yume33550336"
+        },
+        {
+          "end": 37,
+          "id": "1585145286598483968",
+          "start": 25,
+          "username": "lianyiganyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079193595534524832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079154863976612123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yume33550336: 有人知道消息吗@lianyiganyu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079193595534524832",
+        "created_at": "2026-07-20T13:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079193595534524832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999862284500488192",
+              "start": 3,
+              "username": "Yume33550336"
+            },
+            {
+              "end": 37,
+              "id": "1585145286598483968",
+              "start": 25,
+              "username": "lianyiganyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079193595534524832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079154863976612123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yume33550336: 有人知道消息吗@lianyiganyu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999862284500488192",
+        "conversation_id": "2079154863976612123",
+        "created_at": "2026-07-20T10:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079154863976612123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1585145286598483968",
+              "start": 7,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/akenohotaru/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/akenohotaru/status/2078891911545524582",
+              "start": 20,
+              "url": "https://t.co/ZemfJK1Er6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079154863976612123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078891911545524582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人知道消息吗@lianyiganyu https://t.co/ZemfJK1Er6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 233,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:21:50.000Z",
+        "description": "*dreamland system\n*inner world：@yumek496\n*lovers: @SarahAguil32516 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "yumek496"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "SarahAguil32516"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitashioyume.github.io",
+                "end": 23,
+                "expanded_url": "http://kitashioyume.github.io",
+                "start": 0,
+                "url": "https://t.co/n2vIYGSJ6k"
+              }
+            ]
+          }
+        },
+        "id": "1999862284500488192",
+        "name": "Kitashio Yume",
+        "pinned_tweet_id": "2071067138966831121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071072896664104960/XV-dO9FM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 440,
+          "like_count": 4428,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 3198
+        },
+        "url": "https://t.co/n2vIYGSJ6k",
+        "username": "Yume33550336",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3945,
+          "following_count": 6,
+          "like_count": 57,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false
+      }
+    ]
+  }
+}

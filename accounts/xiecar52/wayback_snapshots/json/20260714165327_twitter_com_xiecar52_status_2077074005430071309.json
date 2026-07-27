@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2076348933144768921",
+    "created_at": "2026-07-14T16:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077074005430071309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077074005430071309",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076348933144768921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 10、11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1095,
+        "media_key": "3_2076348879558320128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCsThPaoAATqse.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2076348933144768921",
+        "created_at": "2026-07-14T16:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077074005430071309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077074005430071309",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076348933144768921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 10、11"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076348879558320128"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2076348933144768921",
+        "created_at": "2026-07-12T16:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076348933144768921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzURNZ42IT",
+              "end": 47,
+              "expanded_url": "https://x.com/Wesley10032/status/2076348933144768921/photo/1",
+              "media_key": "3_2076348879558320128",
+              "start": 24,
+              "url": "https://t.co/ZzURNZ42IT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076348933144768921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 469,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定也玩玩这个了\n欢迎提问٩(๑^o^๑)۶ https://t.co/ZzURNZ42IT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "",
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 28,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 581,
+          "like_count": 4322,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

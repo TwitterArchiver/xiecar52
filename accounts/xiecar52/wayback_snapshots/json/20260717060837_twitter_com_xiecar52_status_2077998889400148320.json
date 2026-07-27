@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2077741214447829258",
+    "created_at": "2026-07-17T06:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077998889400148320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1857857105832849409",
+          "start": 0,
+          "username": "bb2222227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077998889400148320",
+    "in_reply_to_user_id": "1857857105832849409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077741214447829258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bb2222227 这条下面也有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077741193329541120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWem2OagAA8Zlh.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2077741214447829258",
+        "created_at": "2026-07-17T06:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077998889400148320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1857857105832849409",
+              "start": 0,
+              "username": "bb2222227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077998889400148320",
+        "in_reply_to_user_id": "1857857105832849409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077741214447829258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bb2222227 这条下面也有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077741193329541120"
+          ]
+        },
+        "author_id": "1857857105832849409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077741214447829258",
+        "created_at": "2026-07-16T13:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077741214447829258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIK35rRMHO",
+              "end": 43,
+              "expanded_url": "https://x.com/bb2222227/status/2077741214447829258/photo/1",
+              "media_key": "3_2077741193329541120",
+              "start": 20,
+              "url": "https://t.co/RIK35rRMHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077741214447829258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 74101,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 91,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我到底要加多少屏蔽词才能不看到机器人🤖 https://t.co/RIK35rRMHO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）",
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 58,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T18:43:57.000Z",
+        "description": "我要在这里碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b%E2%80%86k%E2…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b%E2%80%86k%E2%80%86n%E2%80%86y7",
+                "start": 0,
+                "url": "https://t.co/atKQM7mIZa"
+              }
+            ]
+          }
+        },
+        "id": "1857857105832849409",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914567433601667072/FQg56xeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5192,
+          "following_count": 48,
+          "like_count": 1449,
+          "listed_count": 7,
+          "media_count": 23,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/atKQM7mIZa",
+        "username": "bb2222227",
+        "verified": false
+      }
+    ]
+  }
+}

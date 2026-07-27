@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079194674598953225",
+    "created_at": "2026-07-20T13:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079201731473465807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026259002813005824",
+          "start": 0,
+          "username": "OHOHOH121121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079201731473465807",
+    "in_reply_to_user_id": "2026259002813005824",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079194674598953225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OHOHOH121121 18、27"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2079194667871281152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrIiM1aoAArIOe.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079194674598953225",
+        "created_at": "2026-07-20T13:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079201731473465807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079201731473465807",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079194674598953225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 18、27"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079194667871281152"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2079194674598953225",
+        "created_at": "2026-07-20T13:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079194674598953225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVR0ue43UB",
+              "end": 29,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2079194674598953225/photo/1",
+              "media_key": "3_2079194667871281152",
+              "start": 6,
+              "url": "https://t.co/YVR0ue43UB"
+            },
+            {
+              "display_url": "x.com/Texiuszhichuan…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Texiuszhichuan/status/2079192979902980596",
+              "start": 30,
+              "url": "https://t.co/Ja75OeqTde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079194674598953225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079192979902980596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要玩！ https://t.co/YVR0ue43UB https://t.co/Ja75OeqTde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 235,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 970,
+          "like_count": 6841,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1790
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

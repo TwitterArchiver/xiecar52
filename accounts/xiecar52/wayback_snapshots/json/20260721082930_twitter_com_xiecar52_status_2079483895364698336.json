@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079383996052721863",
+    "created_at": "2026-07-21T08:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079483895364698336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2063169843671793664",
+          "start": 0,
+          "username": "Mercyvxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079483895364698336",
+    "in_reply_to_user_id": "2063169843671793664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079383996052721863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvxv 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079383996052721863",
+        "created_at": "2026-07-21T08:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079483895364698336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079483895364698336",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079383996052721863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2079383996052721863",
+        "created_at": "2026-07-21T01:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079383996052721863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079383996052721863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1461,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈让我要死滚外边去死，说房子还要留着卖呢，让我别影响他们卖房子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTG:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 76,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 53,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 257,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 410,
+          "like_count": 2758,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

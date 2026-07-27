@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080760719981817856",
+        "3_2080761920626589696",
+        "3_2080761945339449344"
+      ],
+      "media_source_tweet_id": [
+        "2080822591233638780",
+        "2080822591233638780",
+        "2080822591233638780"
+      ]
+    },
+    "author_id": "2077009828988493824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2080985274117685676",
+    "created_at": "2026-07-25T11:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080985274117685676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1574300405026017280",
+          "start": 3,
+          "username": "yantanzhang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dGdPJn1y1k",
+          "end": 109,
+          "expanded_url": "https://x.com/yantanzhang/status/2080822591233638780/photo/1",
+          "media_key": "3_2080760719981817856",
+          "start": 86,
+          "url": "https://t.co/dGdPJn1y1k"
+        },
+        {
+          "display_url": "pic.x.com/dGdPJn1y1k",
+          "end": 109,
+          "expanded_url": "https://x.com/yantanzhang/status/2080822591233638780/photo/1",
+          "media_key": "3_2080761920626589696",
+          "start": 86,
+          "url": "https://t.co/dGdPJn1y1k"
+        },
+        {
+          "display_url": "pic.x.com/dGdPJn1y1k",
+          "end": 109,
+          "expanded_url": "https://x.com/yantanzhang/status/2080822591233638780/photo/1",
+          "media_key": "3_2080761945339449344",
+          "start": 86,
+          "url": "https://t.co/dGdPJn1y1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080985274117685676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080822591233638780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yantanzhang: 这些官媒运营还要点脸吗？\n\n河南都市频道蓝V账号公然盗取B站化学视频博主拉挖稀的作品，并将标题标注为“女生”做实验，而原视频博主是男人。 https://t.co/dGdPJn1y1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 957,
+        "media_key": "3_2080760719981817856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBY2bkaMAAKj32.jpg",
+        "width": 541
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2080761920626589696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBZ8UUbgAAvgI_.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2080761945339449344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBZ9wYb0AA-KR5.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080760719981817856",
+            "3_2080761920626589696",
+            "3_2080761945339449344"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "2080822591233638780",
+        "created_at": "2026-07-25T01:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080822591233638780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGdPJn1y1k",
+              "end": 92,
+              "expanded_url": "https://x.com/yantanzhang/status/2080822591233638780/photo/1",
+              "media_key": "3_2080760719981817856",
+              "start": 69,
+              "url": "https://t.co/dGdPJn1y1k"
+            },
+            {
+              "display_url": "pic.x.com/dGdPJn1y1k",
+              "end": 92,
+              "expanded_url": "https://x.com/yantanzhang/status/2080822591233638780/photo/1",
+              "media_key": "3_2080761920626589696",
+              "start": 69,
+              "url": "https://t.co/dGdPJn1y1k"
+            },
+            {
+              "display_url": "pic.x.com/dGdPJn1y1k",
+              "end": 92,
+              "expanded_url": "https://x.com/yantanzhang/status/2080822591233638780/photo/1",
+              "media_key": "3_2080761945339449344",
+              "start": 69,
+              "url": "https://t.co/dGdPJn1y1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080822591233638780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 45963,
+          "like_count": 441,
+          "quote_count": 0,
+          "reply_count": 146,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这些官媒运营还要点脸吗？\n\n河南都市频道蓝V账号公然盗取B站化学视频博主拉挖稀的作品，并将标题标注为“女生”做实验，而原视频博主是男人。 https://t.co/dGdPJn1y1k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080760719981817856",
+            "3_2080761920626589696",
+            "3_2080761945339449344"
+          ],
+          "media_source_tweet_id": [
+            "2080822591233638780",
+            "2080822591233638780",
+            "2080822591233638780"
+          ]
+        },
+        "author_id": "2077009828988493824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2080985274117685676",
+        "created_at": "2026-07-25T11:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080985274117685676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1574300405026017280",
+              "start": 3,
+              "username": "yantanzhang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGdPJn1y1k",
+              "end": 109,
+              "expanded_url": "https://x.com/yantanzhang/status/2080822591233638780/photo/1",
+              "media_key": "3_2080760719981817856",
+              "start": 86,
+              "url": "https://t.co/dGdPJn1y1k"
+            },
+            {
+              "display_url": "pic.x.com/dGdPJn1y1k",
+              "end": 109,
+              "expanded_url": "https://x.com/yantanzhang/status/2080822591233638780/photo/1",
+              "media_key": "3_2080761920626589696",
+              "start": 86,
+              "url": "https://t.co/dGdPJn1y1k"
+            },
+            {
+              "display_url": "pic.x.com/dGdPJn1y1k",
+              "end": 109,
+              "expanded_url": "https://x.com/yantanzhang/status/2080822591233638780/photo/1",
+              "media_key": "3_2080761945339449344",
+              "start": 86,
+              "url": "https://t.co/dGdPJn1y1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080985274117685676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080822591233638780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yantanzhang: 这些官媒运营还要点脸吗？\n\n河南都市频道蓝V账号公然盗取B站化学视频博主拉挖稀的作品，并将标题标注为“女生”做实验，而原视频博主是男人。 https://t.co/dGdPJn1y1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 337,
+          "like_count": 918,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，拒绝宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60839,
+          "following_count": 465,
+          "like_count": 5175,
+          "listed_count": 168,
+          "media_count": 6415,
+          "tweet_count": 8010
+        },
+        "url": "",
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

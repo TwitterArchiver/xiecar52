@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079223447235002813",
+    "created_at": "2026-07-21T08:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079484980422738085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1447499448649601025",
+          "start": 0,
+          "username": "LVTGW666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079484980422738085",
+    "in_reply_to_user_id": "1447499448649601025",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079223447235002813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LVTGW666 😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2079223431648919552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNriseQaQAArph7.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079223447235002813",
+        "created_at": "2026-07-21T08:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079484980422738085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447499448649601025",
+              "start": 0,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079484980422738085",
+        "in_reply_to_user_id": "1447499448649601025",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079223447235002813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVTGW666 😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079223431648919552"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2079223447235002813",
+        "created_at": "2026-07-20T15:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079223447235002813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9RF08XLIs",
+              "end": 33,
+              "expanded_url": "https://x.com/LVTGW666/status/2079223447235002813/photo/1",
+              "media_key": "3_2079223431648919552",
+              "start": 10,
+              "url": "https://t.co/W9RF08XLIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079223447235002813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 82781,
+          "like_count": 2319,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "某34网站看疯魔了 https://t.co/W9RF08XLIs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTG:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 76,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 53,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 259,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73329,
+          "following_count": 1014,
+          "like_count": 15220,
+          "listed_count": 307,
+          "media_count": 5925,
+          "tweet_count": 13605
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

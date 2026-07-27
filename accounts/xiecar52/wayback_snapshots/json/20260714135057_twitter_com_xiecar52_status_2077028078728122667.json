@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2074896439818453001",
+    "created_at": "2026-07-14T13:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077028078728122667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1270734292457361408",
+          "start": 0,
+          "username": "Genshin_Forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077028078728122667",
+    "in_reply_to_user_id": "1270734292457361408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074896439818453001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Genshin_Forever 第二个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2074896430892974083",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuDT4UaAAM6eUV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2074896439818453001",
+        "created_at": "2026-07-14T13:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077028078728122667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1270734292457361408",
+              "start": 0,
+              "username": "Genshin_Forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077028078728122667",
+        "in_reply_to_user_id": "1270734292457361408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074896439818453001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Genshin_Forever 第二个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074896430892974083"
+          ]
+        },
+        "author_id": "1270734292457361408",
+        "conversation_id": "2074896439818453001",
+        "created_at": "2026-07-08T16:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074896439818453001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOFhLFA8rn",
+              "end": 74,
+              "expanded_url": "https://x.com/Genshin_Forever/status/2074896439818453001/photo/1",
+              "media_key": "3_2074896430892974083",
+              "start": 51,
+              "url": "https://t.co/pOFhLFA8rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074896439818453001",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 17678,
+          "like_count": 970,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "ZZZ Question\n\nWhat is your favorite Belle Outfits? https://t.co/pOFhLFA8rn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "",
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 27,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-10T15:07:43.000Z",
+        "description": "原神 | DRAGON BALL | ゼンゼロ | アニメ | 漫画。 Love: Genshin || Dragon Ball || Dokkan Battle || ZZZ || Anime & Manga || Header made by @Emperor___Time Alt: @OTA_WARRIOR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 124,
+                "username": "Emperor___Time"
+              },
+              {
+                "end": 157,
+                "start": 145,
+                "username": "OTA_WARRIOR"
+              }
+            ]
+          }
+        },
+        "id": "1270734292457361408",
+        "location": "テイワット & Dragon World 🐉",
+        "name": "OTAKUさん🐉 Dokkan & Genshin Lover",
+        "pinned_tweet_id": "1768248808432087361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006353177550139393/juY54aOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7286,
+          "following_count": 1345,
+          "like_count": 168554,
+          "listed_count": 34,
+          "media_count": 15331,
+          "tweet_count": 112470
+        },
+        "url": "",
+        "username": "Genshin_Forever",
+        "verified": false
+      }
+    ]
+  }
+}

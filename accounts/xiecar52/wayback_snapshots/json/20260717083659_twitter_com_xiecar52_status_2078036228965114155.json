@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078002541502321104",
+    "created_at": "2026-07-17T08:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078036228965114155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1757630242288541696",
+          "start": 0,
+          "username": "Zhixiang_tih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078036228965114155",
+    "in_reply_to_user_id": "1757630242288541696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078002541502321104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhixiang_tih 好问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2078002532975341568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaMS0RbcAAen5L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078002541502321104",
+        "created_at": "2026-07-17T08:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078036228965114155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1757630242288541696",
+              "start": 0,
+              "username": "Zhixiang_tih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078036228965114155",
+        "in_reply_to_user_id": "1757630242288541696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078002541502321104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhixiang_tih 好问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078002532975341568"
+          ]
+        },
+        "author_id": "1757630242288541696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078002541502321104",
+        "created_at": "2026-07-17T06:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078002541502321104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SumgnviR8X",
+              "end": 40,
+              "expanded_url": "https://x.com/Zhixiang_tih/status/2078002541502321104/photo/1",
+              "media_key": "3_2078002532975341568",
+              "start": 17,
+              "url": "https://t.co/SumgnviR8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078002541502321104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底是在玩绝区零还是崩铁……？ https://t.co/SumgnviR8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 66,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:58:13.000Z",
+        "description": "Being rebuilt...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/hzx312",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/hzx312",
+                "start": 0,
+                "url": "https://t.co/S3lWFmBhdl"
+              }
+            ]
+          }
+        },
+        "id": "1757630242288541696",
+        "location": "China Mainland",
+        "name": "Zhixiang Huang",
+        "pinned_tweet_id": "2074855106638762049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070768791156633600/nI2xlmh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 2011,
+          "like_count": 121346,
+          "listed_count": 2,
+          "media_count": 1944,
+          "tweet_count": 18278
+        },
+        "url": "https://t.co/S3lWFmBhdl",
+        "username": "Zhixiang_tih",
+        "verified": true
+      }
+    ]
+  }
+}

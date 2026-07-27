@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2077606205619642683",
+    "created_at": "2026-07-16T07:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077654887857594685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069056823076986880",
+          "start": 0,
+          "username": "qwq_automaton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077654887857594685",
+    "in_reply_to_user_id": "2069056823076986880",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077606205619642683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_automaton 24、27"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_2077606197960818688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUj1FSawAAJGt9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2077606205619642683",
+        "created_at": "2026-07-16T07:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077654887857594685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069056823076986880",
+              "start": 0,
+              "username": "qwq_automaton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077654887857594685",
+        "in_reply_to_user_id": "2069056823076986880",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077606205619642683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_automaton 24、27"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077606197960818688"
+          ]
+        },
+        "author_id": "2069056823076986880",
+        "conversation_id": "2077606205619642683",
+        "created_at": "2026-07-16T04:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077606205619642683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HUPUyCIYUR",
+              "end": 31,
+              "expanded_url": "https://x.com/qwq_automaton/status/2077606205619642683/photo/1",
+              "media_key": "3_2077606197960818688",
+              "start": 8,
+              "url": "https://t.co/HUPUyCIYUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077606205619642683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想玩这个🥺🥺🥺 https://t.co/HUPUyCIYUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）",
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 46,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T13:56:57.000Z",
+        "description": "希望没有怪大叔 || HRT since 260624 || 天雷键政 || 互fo可以私信喔~ || 💕@eveej123 || 可爱的妹妹 @Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "eveej123"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "2069056823076986880",
+        "name": "quko III",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069057244420083712/0NVlRrmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 55,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "qwq_automaton",
+        "verified": false
+      }
+    ]
+  }
+}

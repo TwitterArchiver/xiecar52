@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078182197677498501",
+    "created_at": "2026-07-17T18:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078184893633491068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1747180238810021888",
+          "start": 0,
+          "username": "wwj23355"
+        },
+        {
+          "end": 23,
+          "id": "1153430387504373764",
+          "start": 10,
+          "username": "xiangcai_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078184893633491068",
+    "in_reply_to_user_id": "1747180238810021888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078182197677498501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwj23355 @xiangcai_nya 🕯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078182197677498501",
+        "created_at": "2026-07-17T18:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078184893633491068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1747180238810021888",
+              "start": 0,
+              "username": "wwj23355"
+            },
+            {
+              "end": 23,
+              "id": "1153430387504373764",
+              "start": 10,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078184893633491068",
+        "in_reply_to_user_id": "1747180238810021888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078182197677498501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwj23355 @xiangcai_nya 🕯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747180238810021888",
+        "conversation_id": "2078182197677498501",
+        "created_at": "2026-07-17T18:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078182197677498501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078182197677498501",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya\n说好要等我回去见面一起玩\n说好要1000fo抽奖\n怎么就先走掉了\n\n“已经很尽力了”\n就是我想留给你的话\n晚安..吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 95,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T08:53:40.000Z",
+        "description": "Ciallo～～(∠・ω)⌒☆\n｜重抑重焦｜不od (?) 不割手 (?) 不登校｜183 60的mtf()｜HRT: 26.04.27 - 05.21 |睡眠重度依赖｜满级颓废｜玩车｜BA | CN/EN/KR/JP prob OK |\n｜生产日期：08.09.13｜\n天天发一些负面傻逼言论真的对不起",
+        "id": "1747180238810021888",
+        "name": "WVKI233333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044056098873978883/TB8Ilmi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 524,
+          "like_count": 3907,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 1448
+        },
+        "url": "",
+        "username": "wwj23355",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2074084255555268761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073611435129868288/Wr4hsJiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 366,
+          "like_count": 376,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

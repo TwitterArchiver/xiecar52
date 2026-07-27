@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079532946864943255",
+    "created_at": "2026-07-21T11:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079533064229982580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1971244609943564290",
+          "start": 0,
+          "username": "Donna1054957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079533064229982580",
+    "in_reply_to_user_id": "1971244609943564290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079532946864943255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Donna1054957 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079532946864943255",
+        "created_at": "2026-07-21T11:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079533064229982580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971244609943564290",
+              "start": 0,
+              "username": "Donna1054957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079533064229982580",
+        "in_reply_to_user_id": "1971244609943564290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079532946864943255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Donna1054957 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2079532946864943255",
+        "created_at": "2026-07-21T11:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079532946864943255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079532946864943255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会再在网上交朋友了 无论哪次都给我带来了不小的创伤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 82,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 59,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 269,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 142,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

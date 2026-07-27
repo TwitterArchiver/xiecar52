@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2077960648005501188",
+    "created_at": "2026-07-17T08:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078035982293839894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2076841557802864640",
+          "start": 0,
+          "username": "kuukiwtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078035982293839894",
+    "in_reply_to_user_id": "2076841557802864640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077960648005501188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwtf 那就好好对自己喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2077960648005501188",
+        "created_at": "2026-07-17T08:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078035982293839894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078035982293839894",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077960648005501188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 那就好好对自己喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2077960648005501188",
+        "created_at": "2026-07-17T03:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077960648005501188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077960648005501188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没力气割手喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 65,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 105,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

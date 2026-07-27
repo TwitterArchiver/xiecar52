@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079290777310761096",
+    "created_at": "2026-07-21T05:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079435113079967874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1598557374046179328",
+          "start": 0,
+          "username": "huihui_mikumi"
+        },
+        {
+          "end": 24,
+          "id": "1747180238810021888",
+          "start": 15,
+          "username": "wwj23355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079435113079967874",
+    "in_reply_to_user_id": "1598557374046179328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079290777310761096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huihui_mikumi @wwj23355 不要做傻事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2079290723917279233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsf5ZfasAEJqhG.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 8342,
+        "height": 1280,
+        "media_key": "13_2079290729386717184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079290729386717184/img/89Q6V6bSCzvF-if9.jpg",
+        "public_metrics": {
+          "view_count": 753
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290729386717184/vid/avc1/320x568/xrLZuxACV9lK_HCM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290729386717184/vid/avc1/480x852/nHcES36HQ2w5riPe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290729386717184/vid/avc1/720x1280/Y4KTd4UUKf9Ju14b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079290729386717184/pl/rzfxnYygLc_6K0Lj.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10953,
+        "height": 960,
+        "media_key": "13_2079290752514113536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079290752514113536/img/qqphBaLoPaFdHAGu.jpg",
+        "public_metrics": {
+          "view_count": 153
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290752514113536/vid/avc1/320x564/IDLvPvISQDY3JJ47.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290752514113536/vid/avc1/480x846/hlRoHRh6m0-eQuxf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290752514113536/vid/avc1/544x960/mzDbYn9dZ8ayNZUB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079290752514113536/pl/-Wmx74K_Vg9RMH_S.m3u8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2079290772382486528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsf8OCbEAAUXxy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079290777310761096",
+        "created_at": "2026-07-21T05:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079435113079967874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 24,
+              "id": "1747180238810021888",
+              "start": 15,
+              "username": "wwj23355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079435113079967874",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079290777310761096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi @wwj23355 不要做傻事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079290723917279233",
+            "13_2079290729386717184",
+            "13_2079290752514113536",
+            "3_2079290772382486528"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2079290777310761096",
+        "created_at": "2026-07-20T19:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079290777310761096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qrkvLCnLjH",
+              "end": 58,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079290777310761096/video/1",
+              "media_key": "3_2079290723917279233",
+              "start": 35,
+              "url": "https://t.co/qrkvLCnLjH"
+            },
+            {
+              "display_url": "pic.x.com/qrkvLCnLjH",
+              "end": 58,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079290777310761096/video/1",
+              "media_key": "13_2079290729386717184",
+              "start": 35,
+              "url": "https://t.co/qrkvLCnLjH"
+            },
+            {
+              "display_url": "pic.x.com/qrkvLCnLjH",
+              "end": 58,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079290777310761096/video/1",
+              "media_key": "13_2079290752514113536",
+              "start": 35,
+              "url": "https://t.co/qrkvLCnLjH"
+            },
+            {
+              "display_url": "pic.x.com/qrkvLCnLjH",
+              "end": 58,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079290777310761096/video/1",
+              "media_key": "3_2079290772382486528",
+              "start": 35,
+              "url": "https://t.co/qrkvLCnLjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079290777310761096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1518,
+          "like_count": 31,
+          "quote_count": 9,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "已摄入200片地西泮，24小时没回消息帮我发讣告，5倍致死量应该够了 https://t.co/qrkvLCnLjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTG:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 76,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 53,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 245,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "nagis1a"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "mikumi_huihui"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 1153,
+          "like_count": 1050,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 2447
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-16T08:53:40.000Z",
+        "description": "Ciallo～～(∠・ω)⌒☆\n｜重抑重焦｜不od (?) 不割手 (?) 不登校｜183 60的mtf()｜HRT: 26.04.27 - 05.21 |睡眠重度依赖｜满级颓废｜玩车｜BA | CN/EN/KR/JP prob OK |\n｜生产日期：08.09.13｜\n天天发一些负面傻逼言论真的对不起",
+        "id": "1747180238810021888",
+        "name": "WVKI233333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044056098873978883/TB8Ilmi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 527,
+          "like_count": 3987,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 1498
+        },
+        "url": "",
+        "username": "wwj23355",
+        "verified": false
+      }
+    ]
+  }
+}

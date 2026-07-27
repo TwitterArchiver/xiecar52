@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078099738231201818",
+    "created_at": "2026-07-17T16:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078154664055599212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        },
+        {
+          "end": 29,
+          "id": "1565981667746914304",
+          "start": 13,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078154664055599212",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078099738231201818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 @Kagura_Yukikaze 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "QQ空间",
+        "height": 1062,
+        "media_key": "3_2078099733227491328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbksnbb0AAS6Os.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "QQ空间",
+        "height": 1098,
+        "media_key": "3_2078099732988366848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbksmibEAA7KFa.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "qq空间",
+        "height": 387,
+        "media_key": "3_2078099733206429696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbksnWacAAsAmx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078099738231201818",
+        "created_at": "2026-07-17T16:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078154664055599212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            },
+            {
+              "end": 29,
+              "id": "1565981667746914304",
+              "start": 13,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078154664055599212",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078099738231201818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 @Kagura_Yukikaze 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078099733227491328",
+            "3_2078099732988366848",
+            "3_2078099733206429696"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078099738231201818",
+        "created_at": "2026-07-17T12:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078099738231201818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1565981667746914304",
+              "start": 9,
+              "username": "Kagura_Yukikaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtZDDR72Qp",
+              "end": 61,
+              "expanded_url": "https://x.com/TixItem4527/status/2078099738231201818/photo/1",
+              "media_key": "3_2078099733227491328",
+              "start": 38,
+              "url": "https://t.co/dtZDDR72Qp"
+            },
+            {
+              "display_url": "pic.x.com/dtZDDR72Qp",
+              "end": 61,
+              "expanded_url": "https://x.com/TixItem4527/status/2078099738231201818/photo/1",
+              "media_key": "3_2078099732988366848",
+              "start": 38,
+              "url": "https://t.co/dtZDDR72Qp"
+            },
+            {
+              "display_url": "pic.x.com/dtZDDR72Qp",
+              "end": 61,
+              "expanded_url": "https://x.com/TixItem4527/status/2078099738231201818/photo/1",
+              "media_key": "3_2078099733206429696",
+              "start": 38,
+              "url": "https://t.co/dtZDDR72Qp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078099738231201818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2458,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "坏消息来的好快……@Kagura_Yukikaze 这位姐姐已经离世了…… https://t.co/dtZDDR72Qp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 69,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 1215,
+          "like_count": 3232,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 1538
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3173,
+          "following_count": 3070,
+          "like_count": 115680,
+          "listed_count": 9,
+          "media_count": 826,
+          "tweet_count": 13979
+        },
+        "url": "",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

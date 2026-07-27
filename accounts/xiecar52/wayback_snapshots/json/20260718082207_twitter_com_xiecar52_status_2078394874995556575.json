@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078169470904754463",
+    "created_at": "2026-07-18T08:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078394874995556575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059149411007991808",
+          "start": 0,
+          "username": "wndsfefoumxlw6"
+        },
+        {
+          "end": 31,
+          "id": "1921734233334448128",
+          "start": 16,
+          "username": "Amesawa_Sumire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078394874995556575",
+    "in_reply_to_user_id": "2059149411007991808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078169470904754463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wndsfefoumxlw6 @Amesawa_Sumire 蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078169470904754463",
+        "created_at": "2026-07-18T08:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078394874995556575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            },
+            {
+              "end": 31,
+              "id": "1921734233334448128",
+              "start": 16,
+              "username": "Amesawa_Sumire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078394874995556575",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078169470904754463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 @Amesawa_Sumire 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2078169470904754463",
+        "created_at": "2026-07-17T17:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078169470904754463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078169470904754463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1892,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "迟来的1000fo福利\n\n一等奖：200r以内电子烟任选一个（可折现150r）\n二等奖：v你50\n三等奖：5.2r红包一个\n关注评论转发就可以参与喽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 142,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 159,
+          "like_count": 3857,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T01:09:00.000Z",
+        "description": "永遠寫著緣直到消散為止\n自我紹介在置頂哦 愿意和我互fo嘛🥺",
+        "id": "1921734233334448128",
+        "name": "Vwis",
+        "pinned_tweet_id": "2077914573693428127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077722991652478976/Dxdr7VSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 76,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "Amesawa_Sumire",
+        "verified": false
+      }
+    ]
+  }
+}

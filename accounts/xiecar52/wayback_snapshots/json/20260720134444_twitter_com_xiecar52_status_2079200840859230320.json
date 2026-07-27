@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079200840859230320",
+    "created_at": "2026-07-20T13:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079200840859230320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2063159075572158465",
+          "start": 3,
+          "username": "Bochichan250hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079200840859230320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079184029320945681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bochichan250hh: 马上400fo\n互关求转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079200840859230320",
+        "created_at": "2026-07-20T13:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079200840859230320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2063159075572158465",
+              "start": 3,
+              "username": "Bochichan250hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079200840859230320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079184029320945681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bochichan250hh: 马上400fo\n互关求转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063159075572158465",
+        "conversation_id": "2079184029320945681",
+        "created_at": "2026-07-20T12:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079184029320945681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079184029320945681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "马上400fo\n互关求转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 234,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户可以关注大号谢谢咯~\n苦练electric guitar 🎸\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeybig"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "name": "防尘迷呀awa🇰🇵🎸（互关）",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 373,
+          "like_count": 1822,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/dkFNyeybig",
+        "username": "Bochichan250hh",
+        "verified": false
+      }
+    ]
+  }
+}

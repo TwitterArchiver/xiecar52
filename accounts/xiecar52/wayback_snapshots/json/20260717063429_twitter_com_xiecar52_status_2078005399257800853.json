@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2077784040669851915",
+    "created_at": "2026-07-17T06:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078005399257800853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745160587292610560",
+          "start": 0,
+          "username": "GabrielFor6287"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078005399257800853",
+    "in_reply_to_user_id": "1745160587292610560",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077784040669851915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GabrielFor6287 2、24、27"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_2077784019689943040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXFjq2aMAALDm8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2077784040669851915",
+        "created_at": "2026-07-17T06:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078005399257800853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1745160587292610560",
+              "start": 0,
+              "username": "GabrielFor6287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078005399257800853",
+        "in_reply_to_user_id": "1745160587292610560",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077784040669851915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GabrielFor6287 2、24、27"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077784019689943040"
+          ]
+        },
+        "author_id": "1745160587292610560",
+        "conversation_id": "2077784040669851915",
+        "created_at": "2026-07-16T15:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077784040669851915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3v8xbl0Me",
+              "end": 32,
+              "expanded_url": "https://x.com/GabrielFor6287/status/2077784040669851915/photo/1",
+              "media_key": "3_2077784019689943040",
+              "start": 9,
+              "url": "https://t.co/U3v8xbl0Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077784040669851915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 701,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想玩欢迎互动 https://t.co/U3v8xbl0Me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 64,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T19:08:06.000Z",
+        "description": "屌丝来上网了，欢迎互fo",
+        "id": "1745160587292610560",
+        "location": "250m",
+        "name": "屑鱼屑屑",
+        "pinned_tweet_id": "1745161003019501957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005945705328959489/htAyuPqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 114,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "GabrielFor6287",
+        "verified": false
+      }
+    ]
+  }
+}

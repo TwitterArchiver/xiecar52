@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079064820088021088",
+    "created_at": "2026-07-20T04:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079064820088021088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983042229720735744",
+          "start": 3,
+          "username": "mchchc5216"
+        }
+      ],
+      "urls": [
+        {
+          "description": "1. 本网站仅为文档版式、样式排版演示学习工具，仅供UI设计、网页布局练习预览使用，不属于医疗服务平台，不具备任何医疗机构、执业医师诊疗资质。 2. 网站内提供的处方模板仅为版式样例，不具备任何真实医疗文书法律效力，严禁用于伪造、变造、套用真实处方、病历、诊断证明等医疗文件，严禁用于违法用途。 3. 用户自行在模板内填写的疾病名称、药品名称、医师姓名、日期等全部内容，均仅为文本编辑效果，不代表任何医师诊断、用药建议。如有身体疾病，请前往正规医疗机构就诊，遵从执业医师指导用药，切勿依据本网站内容自行用药。 4. 用户使用本网站，即表示知晓并同意本免责条款。如用户违反法律法规使用本模板，由此产生的一切民事、行政、刑事法律责任，均由使用者本人独立全部承担，本站不承担任何连带责任。 5. 本站不对用户编辑内容的真实性、合法性、准确性做任何担保，不对使用本网站产生的任何直接或间接损失承担赔偿责任。 6. 本声明最终解释权归本站所有。",
+          "display_url": "rxg.20110208.xyz",
+          "end": 87,
+          "expanded_url": "https://rxg.20110208.xyz/",
+          "start": 64,
+          "status": 200,
+          "title": "处方笺编辑器",
+          "unwound_url": "https://rxg.20110208.xyz/",
+          "url": "https://t.co/3tbNVPKHu1"
+        },
+        {
+          "description": "这是一个基于 HTML、CSS 与 JavaScript 开发的处方笺版式编辑器项目。用户可直接编辑处方中的医院名称、患者信息、诊断内容、药品信息及医师签名等字段，并可将编辑完成的版式导出为 JPG、PNG、PDF 或 SVG 文件。项目仅用于网页排版、UI 设计与文档样式演示学习，不具备真实医疗文书或诊疗服务效力。 - hc5216/Rx-Generator",
+          "display_url": "github.com/hc5216/Rx-Gene…",
+          "end": 116,
+          "expanded_url": "https://github.com/hc5216/Rx-Generator",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2078871897572610049/adNjXqlA?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2078871897572610049/adNjXqlA?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 93,
+          "status": 200,
+          "title": "GitHub - hc5216/Rx-Generator: 这是一个基于 HTML、CSS 与 JavaScript 开发的处方笺版式编辑器项目。用户可直接编辑处方中的医院名称、患者信息、诊断内容、药品信息及医师签名等字段，并可将编辑完成的版式导出为 JPG、PNG、PDF 或 SVG 文件。项目仅用于网页排版、UI 设计与文档样式演示学习，不具备真实医疗文书或诊疗服务效力。",
+          "unwound_url": "https://github.com/hc5216/Rx-Generator",
+          "url": "https://t.co/zuB8Dk4eFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079064820088021088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078871896612065483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mchchc5216: 咱开发了一个处方生成器喵\n全字段支持修改 可以直接导出为pdf\n完全免费！完全开源！\n网页链接：https://t.co/3tbNVPKHu1\n仓库链接：https://t.co/zuB8Dk4eFN\n欢迎大家前来体验喵 https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2078871887451705344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmi96Ea0AAp2NW.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079064820088021088",
+        "created_at": "2026-07-20T04:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079064820088021088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983042229720735744",
+              "start": 3,
+              "username": "mchchc5216"
+            }
+          ],
+          "urls": [
+            {
+              "description": "1. 本网站仅为文档版式、样式排版演示学习工具，仅供UI设计、网页布局练习预览使用，不属于医疗服务平台，不具备任何医疗机构、执业医师诊疗资质。 2. 网站内提供的处方模板仅为版式样例，不具备任何真实医疗文书法律效力，严禁用于伪造、变造、套用真实处方、病历、诊断证明等医疗文件，严禁用于违法用途。 3. 用户自行在模板内填写的疾病名称、药品名称、医师姓名、日期等全部内容，均仅为文本编辑效果，不代表任何医师诊断、用药建议。如有身体疾病，请前往正规医疗机构就诊，遵从执业医师指导用药，切勿依据本网站内容自行用药。 4. 用户使用本网站，即表示知晓并同意本免责条款。如用户违反法律法规使用本模板，由此产生的一切民事、行政、刑事法律责任，均由使用者本人独立全部承担，本站不承担任何连带责任。 5. 本站不对用户编辑内容的真实性、合法性、准确性做任何担保，不对使用本网站产生的任何直接或间接损失承担赔偿责任。 6. 本声明最终解释权归本站所有。",
+              "display_url": "rxg.20110208.xyz",
+              "end": 87,
+              "expanded_url": "https://rxg.20110208.xyz/",
+              "start": 64,
+              "status": 200,
+              "title": "处方笺编辑器",
+              "unwound_url": "https://rxg.20110208.xyz/",
+              "url": "https://t.co/3tbNVPKHu1"
+            },
+            {
+              "description": "这是一个基于 HTML、CSS 与 JavaScript 开发的处方笺版式编辑器项目。用户可直接编辑处方中的医院名称、患者信息、诊断内容、药品信息及医师签名等字段，并可将编辑完成的版式导出为 JPG、PNG、PDF 或 SVG 文件。项目仅用于网页排版、UI 设计与文档样式演示学习，不具备真实医疗文书或诊疗服务效力。 - hc5216/Rx-Generator",
+              "display_url": "github.com/hc5216/Rx-Gene…",
+              "end": 116,
+              "expanded_url": "https://github.com/hc5216/Rx-Generator",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2078871897572610049/adNjXqlA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078871897572610049/adNjXqlA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 93,
+              "status": 200,
+              "title": "GitHub - hc5216/Rx-Generator: 这是一个基于 HTML、CSS 与 JavaScript 开发的处方笺版式编辑器项目。用户可直接编辑处方中的医院名称、患者信息、诊断内容、药品信息及医师签名等字段，并可将编辑完成的版式导出为 JPG、PNG、PDF 或 SVG 文件。项目仅用于网页排版、UI 设计与文档样式演示学习，不具备真实医疗文书或诊疗服务效力。",
+              "unwound_url": "https://github.com/hc5216/Rx-Generator",
+              "url": "https://t.co/zuB8Dk4eFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079064820088021088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078871896612065483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mchchc5216: 咱开发了一个处方生成器喵\n全字段支持修改 可以直接导出为pdf\n完全免费！完全开源！\n网页链接：https://t.co/3tbNVPKHu1\n仓库链接：https://t.co/zuB8Dk4eFN\n欢迎大家前来体验喵 https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078871887451705344"
+          ]
+        },
+        "author_id": "1983042229720735744",
+        "conversation_id": "2078871896612065483",
+        "created_at": "2026-07-19T15:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078871896612065483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "1. 本网站仅为文档版式、样式排版演示学习工具，仅供UI设计、网页布局练习预览使用，不属于医疗服务平台，不具备任何医疗机构、执业医师诊疗资质。 2. 网站内提供的处方模板仅为版式样例，不具备任何真实医疗文书法律效力，严禁用于伪造、变造、套用真实处方、病历、诊断证明等医疗文件，严禁用于违法用途。 3. 用户自行在模板内填写的疾病名称、药品名称、医师姓名、日期等全部内容，均仅为文本编辑效果，不代表任何医师诊断、用药建议。如有身体疾病，请前往正规医疗机构就诊，遵从执业医师指导用药，切勿依据本网站内容自行用药。 4. 用户使用本网站，即表示知晓并同意本免责条款。如用户违反法律法规使用本模板，由此产生的一切民事、行政、刑事法律责任，均由使用者本人独立全部承担，本站不承担任何连带责任。 5. 本站不对用户编辑内容的真实性、合法性、准确性做任何担保，不对使用本网站产生的任何直接或间接损失承担赔偿责任。 6. 本声明最终解释权归本站所有。",
+              "display_url": "rxg.20110208.xyz",
+              "end": 71,
+              "expanded_url": "https://rxg.20110208.xyz/",
+              "start": 48,
+              "status": 200,
+              "title": "处方笺编辑器",
+              "unwound_url": "https://rxg.20110208.xyz/",
+              "url": "https://t.co/3tbNVPKHu1"
+            },
+            {
+              "description": "这是一个基于 HTML、CSS 与 JavaScript 开发的处方笺版式编辑器项目。用户可直接编辑处方中的医院名称、患者信息、诊断内容、药品信息及医师签名等字段，并可将编辑完成的版式导出为 JPG、PNG、PDF 或 SVG 文件。项目仅用于网页排版、UI 设计与文档样式演示学习，不具备真实医疗文书或诊疗服务效力。 - hc5216/Rx-Generator",
+              "display_url": "github.com/hc5216/Rx-Gene…",
+              "end": 100,
+              "expanded_url": "https://github.com/hc5216/Rx-Generator",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2078871897572610049/adNjXqlA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078871897572610049/adNjXqlA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "GitHub - hc5216/Rx-Generator: 这是一个基于 HTML、CSS 与 JavaScript 开发的处方笺版式编辑器项目。用户可直接编辑处方中的医院名称、患者信息、诊断内容、药品信息及医师签名等字段，并可将编辑完成的版式导出为 JPG、PNG、PDF 或 SVG 文件。项目仅用于网页排版、UI 设计与文档样式演示学习，不具备真实医疗文书或诊疗服务效力。",
+              "unwound_url": "https://github.com/hc5216/Rx-Generator",
+              "url": "https://t.co/zuB8Dk4eFN"
+            },
+            {
+              "display_url": "pic.x.com/ThzsvglluS",
+              "end": 134,
+              "expanded_url": "https://x.com/mchchc5216/status/2078871896612065483/photo/1",
+              "media_key": "3_2078871887451705344",
+              "start": 111,
+              "url": "https://t.co/ThzsvglluS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078871896612065483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 365,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "咱开发了一个处方生成器喵\n全字段支持修改 可以直接导出为pdf\n完全免费！完全开源！\n网页链接：https://t.co/3tbNVPKHu1\n仓库链接：https://t.co/zuB8Dk4eFN\n欢迎大家前来体验喵 https://t.co/ThzsvglluS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 215,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T05:25:04.000Z",
+        "description": "MTF l 长在春风里，活在药效里 Ⅱ od Ⅱ 紫餐 Ⅱ 生产日期：2011.3.29 ll 坐标：山东济南 Ⅱ 优香单推人 Ⅱ 互fo Ⅱ 对象：@QY404XYN @walhybz Ⅱ 扩列：1782403568 ✝昇天✝️\n🧀🍖🍗🍔🥩🌭🍟🍣🍤来玩提问箱 ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "QY404XYN"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "walhybz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mchchc5216",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mchchc5216",
+                "start": 0,
+                "url": "https://t.co/mwjWoJrhwH"
+              }
+            ]
+          }
+        },
+        "id": "1983042229720735744",
+        "location": "基沃托斯",
+        "name": "hc5216ˣʸⁿ | 🍥🏳️‍⚧️（💊商）",
+        "pinned_tweet_id": "2054021490711085421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040819899392811008/-46z-zqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 766,
+          "like_count": 2969,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/mwjWoJrhwH",
+        "username": "mchchc5216",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2081272207549120902",
+    "created_at": "2026-07-26T21:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081492477199151302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061066746203652100",
+          "start": 0,
+          "username": "Feifeimian8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081492477199151302",
+    "in_reply_to_user_id": "2061066746203652100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081272207549120902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Feifeimian8964 恭喜喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2081272207549120902",
+        "created_at": "2026-07-26T21:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081492477199151302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061066746203652100",
+              "start": 0,
+              "username": "Feifeimian8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081492477199151302",
+        "in_reply_to_user_id": "2061066746203652100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081272207549120902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Feifeimian8964 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2081272207549120902",
+        "created_at": "2026-07-26T06:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081272207549120902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081272207549120902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 612,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "150fo抽奖（重发\n一等：20rmb\n二等：15rmb\n三等：10rmb\n参与方式：fo、赞、评论\n三天后开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 347,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 198,
+          "like_count": 1953,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 667
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      }
+    ]
+  }
+}

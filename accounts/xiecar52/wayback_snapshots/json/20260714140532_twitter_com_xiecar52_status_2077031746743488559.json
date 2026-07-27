@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2076977236767600900",
+    "created_at": "2026-07-14T14:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077031746743488559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077031746743488559",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076977236767600900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 给雨姐的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1736,
+        "media_key": "3_2076977228475465728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLnyPXbAAAzShz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2076977236767600900",
+        "created_at": "2026-07-14T14:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077031746743488559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077031746743488559",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076977236767600900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 给雨姐的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076977228475465728"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "2076977236767600900",
+        "created_at": "2026-07-14T10:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076977236767600900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oa1F1QHjeq",
+              "end": 26,
+              "expanded_url": "https://x.com/kxk1388574/status/2076977236767600900/photo/1",
+              "media_key": "3_2076977228475465728",
+              "start": 3,
+              "url": "https://t.co/oa1F1QHjeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076977236767600900",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1108,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥵🥵 https://t.co/oa1F1QHjeq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "",
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 27,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10413,
+          "following_count": 5897,
+          "like_count": 54443,
+          "listed_count": 15,
+          "media_count": 1026,
+          "tweet_count": 7994
+        },
+        "url": "",
+        "username": "kxk1388574",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079168082455777479",
+    "created_at": "2026-07-21T08:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079482768334168530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        },
+        {
+          "end": 20,
+          "id": "1964335711521558531",
+          "start": 10,
+          "username": "bbkk23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079482768334168530",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079407687000084536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza @bbkk23333 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079168082455777479",
+        "created_at": "2026-07-21T08:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079482768334168530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            },
+            {
+              "end": 20,
+              "id": "1964335711521558531",
+              "start": 10,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079482768334168530",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079407687000084536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza @bbkk23333 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2079168082455777479",
+        "created_at": "2026-07-21T03:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079407687000084536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964335711521558531",
+              "start": 0,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079407687000084536",
+        "in_reply_to_user_id": "1964335711521558531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079234142701765078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbkk23333 😋窝已经是刁酱的心努力了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTG:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 76,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 53,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 255,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜小号@konizazadesu免得找不到请灌注一下喵～\n正义｜宽容｜博爱｜悲悯｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里（江苏南京）",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2079010466269937972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 1410,
+          "like_count": 5473,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2536
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小吋低强度刷推\n≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 426,
+          "like_count": 4690,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2238
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true
+      }
+    ]
+  }
+}

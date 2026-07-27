@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076384906738028544",
+        "3_2076384910714257408"
+      ],
+      "media_source_tweet_id": [
+        "2076384912924619047",
+        "2076384912924619047"
+      ]
+    },
+    "author_id": "2077009828988493824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078899910943141985",
+    "created_at": "2026-07-19T17:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078899910943141985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1868701291830206464",
+          "start": 3,
+          "username": "A_Asystem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mOOjTBent0",
+          "end": 89,
+          "expanded_url": "https://x.com/A_Asystem/status/2076384912924619047/photo/1",
+          "media_key": "3_2076384906738028544",
+          "start": 66,
+          "url": "https://t.co/mOOjTBent0"
+        },
+        {
+          "display_url": "pic.x.com/mOOjTBent0",
+          "end": 89,
+          "expanded_url": "https://x.com/A_Asystem/status/2076384912924619047/photo/1",
+          "media_key": "3_2076384910714257408",
+          "start": 66,
+          "url": "https://t.co/mOOjTBent0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078899910943141985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076384912924619047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A_Asystem: 防骗提醒\n如图，近期有疑似李保兴的人在进行诈骗。ta甚至分不清国补泰补，说辞非常拙劣，请大家注意防范 https://t.co/mOOjTBent0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2262,
+        "media_key": "3_2076384906738028544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDNEk8aUAA4HBD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2118,
+        "media_key": "3_2076384910714257408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDNEzwawAAt-Al.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076384906738028544",
+            "3_2076384910714257408"
+          ]
+        },
+        "author_id": "1868701291830206464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076384912924619047",
+        "created_at": "2026-07-12T19:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T20:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076384912924619047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mOOjTBent0",
+              "end": 74,
+              "expanded_url": "https://x.com/A_Asystem/status/2076384912924619047/photo/1",
+              "media_key": "3_2076384906738028544",
+              "start": 51,
+              "url": "https://t.co/mOOjTBent0"
+            },
+            {
+              "display_url": "pic.x.com/mOOjTBent0",
+              "end": 74,
+              "expanded_url": "https://x.com/A_Asystem/status/2076384912924619047/photo/1",
+              "media_key": "3_2076384910714257408",
+              "start": 51,
+              "url": "https://t.co/mOOjTBent0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076384912924619047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5750,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "防骗提醒\n如图，近期有疑似李保兴的人在进行诈骗。ta甚至分不清国补泰补，说辞非常拙劣，请大家注意防范 https://t.co/mOOjTBent0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076384906738028544",
+            "3_2076384910714257408"
+          ],
+          "media_source_tweet_id": [
+            "2076384912924619047",
+            "2076384912924619047"
+          ]
+        },
+        "author_id": "2077009828988493824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078899910943141985",
+        "created_at": "2026-07-19T17:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078899910943141985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1868701291830206464",
+              "start": 3,
+              "username": "A_Asystem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mOOjTBent0",
+              "end": 89,
+              "expanded_url": "https://x.com/A_Asystem/status/2076384912924619047/photo/1",
+              "media_key": "3_2076384906738028544",
+              "start": 66,
+              "url": "https://t.co/mOOjTBent0"
+            },
+            {
+              "display_url": "pic.x.com/mOOjTBent0",
+              "end": 89,
+              "expanded_url": "https://x.com/A_Asystem/status/2076384912924619047/photo/1",
+              "media_key": "3_2076384910714257408",
+              "start": 66,
+              "url": "https://t.co/mOOjTBent0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078899910943141985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076384912924619047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A_Asystem: 防骗提醒\n如图，近期有疑似李保兴的人在进行诈骗。ta甚至分不清国补泰补，说辞非常拙劣，请大家注意防范 https://t.co/mOOjTBent0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 205,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T16:54:52.000Z",
+        "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Ereaurora"
+              }
+            ]
+          }
+        },
+        "id": "1868701291830206464",
+        "location": "1m",
+        "name": "Aurora&Andromeda🧸🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054557711656964530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 607,
+          "like_count": 11245,
+          "listed_count": 7,
+          "media_count": 127,
+          "tweet_count": 6385
+        },
+        "url": "",
+        "username": "A_Asystem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079542995884621828",
+    "created_at": "2026-07-21T13:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079559356824392067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944397601354465280",
+          "start": 0,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079559356824392067",
+    "in_reply_to_user_id": "1944397601354465280",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079542995884621828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzusaBA0713 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_2079542993447792640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwFVaubsAAaqnL.jpg",
+        "width": 184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079542995884621828",
+        "created_at": "2026-07-21T13:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079559356824392067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944397601354465280",
+              "start": 0,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079559356824392067",
+        "in_reply_to_user_id": "1944397601354465280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079542995884621828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzusaBA0713 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079542993447792640"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "conversation_id": "2079542995884621828",
+        "created_at": "2026-07-21T12:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079542995884621828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ezp3HPkysH",
+              "end": 34,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2079542995884621828/photo/1",
+              "media_key": "3_2079542993447792640",
+              "start": 11,
+              "url": "https://t.co/Ezp3HPkysH"
+            },
+            {
+              "display_url": "x.com/Shioochic_Xyn/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2079406824852476368",
+              "start": 35,
+              "url": "https://t.co/NzMFVbCunJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079542995884621828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079406824852476368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可惜洞太小了進不去。 https://t.co/Ezp3HPkysH https://t.co/NzMFVbCunJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 82,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 59,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 275,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥/已炸柜/家长不管/INFP-T/生产日期 农历六月初二2010/7/13/1.65m/mtf/hrt2025.5.1/中度抑郁/高敏註意...\n請多多關心我\n最爱の笨宝宝:@XueFu13456\n供🍬の猫猫:@AksharJethwa\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "AksharJethwa"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059476908623151105/bgmq9-he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1715,
+          "like_count": 3376,
+          "listed_count": 7,
+          "media_count": 327,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

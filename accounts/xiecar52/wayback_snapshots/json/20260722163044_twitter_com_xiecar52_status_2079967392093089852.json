@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079966589991223610",
+    "created_at": "2026-07-22T16:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079967392093089852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1782410129012670464",
+          "start": 0,
+          "username": "ANDEL0426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079967392093089852",
+    "in_reply_to_user_id": "1782410129012670464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079966589991223610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANDEL0426 怎么每天都能遇到神人😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079966568537305089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2Gku5asAEE7-v.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079966568554082304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2Gku9asAArZcL.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079966568587636741",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2GkvFasAUuRGO.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079966569078370308",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2Gkw6asAQLT2X.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079966589991223610",
+        "created_at": "2026-07-22T16:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079967392093089852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079967392093089852",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079966589991223610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 怎么每天都能遇到神人😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079966568537305089",
+            "3_2079966568554082304",
+            "3_2079966568587636741",
+            "3_2079966569078370308"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2079966589991223610",
+        "created_at": "2026-07-22T16:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079966589991223610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7zBZjazpq",
+              "end": 71,
+              "expanded_url": "https://x.com/ANDEL0426/status/2079966589991223610/photo/1",
+              "media_key": "3_2079966568537305089",
+              "start": 48,
+              "url": "https://t.co/N7zBZjazpq"
+            },
+            {
+              "display_url": "pic.x.com/N7zBZjazpq",
+              "end": 71,
+              "expanded_url": "https://x.com/ANDEL0426/status/2079966589991223610/photo/1",
+              "media_key": "3_2079966568554082304",
+              "start": 48,
+              "url": "https://t.co/N7zBZjazpq"
+            },
+            {
+              "display_url": "pic.x.com/N7zBZjazpq",
+              "end": 71,
+              "expanded_url": "https://x.com/ANDEL0426/status/2079966589991223610/photo/1",
+              "media_key": "3_2079966568587636741",
+              "start": 48,
+              "url": "https://t.co/N7zBZjazpq"
+            },
+            {
+              "display_url": "pic.x.com/N7zBZjazpq",
+              "end": 71,
+              "expanded_url": "https://x.com/ANDEL0426/status/2079966589991223610/photo/1",
+              "media_key": "3_2079966569078370308",
+              "start": 48,
+              "url": "https://t.co/N7zBZjazpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079966589991223610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个狗逼呢，也是非常把我的好脾气当好欺负呀。这个AD钙呢，现在非常的被恶心到，然后非常生气呀。 https://t.co/N7zBZjazpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 82,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 59,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 307,
+          "like_count": 679,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 非好友不开放任何形式的私信社交\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 375,
+          "like_count": 1930,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 937
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

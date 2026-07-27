@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2080511581532893615",
+    "created_at": "2026-07-24T16:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080693202064228471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900202897738252288",
+          "start": 0,
+          "username": "HGangmakot97631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080693202064228471",
+    "in_reply_to_user_id": "1900202897738252288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080511581532893615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HGangmakot97631 抱抱喵…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080511570053046272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN92P_waIAAIxWA.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2080511581532893615",
+        "created_at": "2026-07-24T16:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080693202064228471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900202897738252288",
+              "start": 0,
+              "username": "HGangmakot97631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080693202064228471",
+        "in_reply_to_user_id": "1900202897738252288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080511581532893615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HGangmakot97631 抱抱喵…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080511570053046272"
+          ]
+        },
+        "author_id": "1900202897738252288",
+        "conversation_id": "2080511581532893615",
+        "created_at": "2026-07-24T04:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080511581532893615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TANJmcql5b",
+              "end": 43,
+              "expanded_url": "https://x.com/HGangmakot97631/status/2080511581532893615/photo/1",
+              "media_key": "3_2080511570053046272",
+              "start": 20,
+              "url": "https://t.co/TANJmcql5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080511581532893615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3914,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次吃个饭都要一直骂我，气的我把碗摔了 https://t.co/TANJmcql5b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 320,
+          "like_count": 821,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T15:11:59.000Z",
+        "description": "Lost Soul Journey\n/🏳️‍⚧️MTFtx/HRT始于  2025.10.06/止于2025.10.31\n/深柜？出柜？炸柜？一种奇妙的量子叠加态/嫉妒所有比我好看的女孩子",
+        "id": "1900202897738252288",
+        "location": "湖北荆门下属某个地方",
+        "name": "困困小桐💤",
+        "pinned_tweet_id": "2051575598674550798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051573340666753024/8RKC7yiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 652,
+          "like_count": 9700,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1646
+        },
+        "url": "",
+        "username": "HGangmakot97631",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2077973011353989613",
+    "created_at": "2026-07-17T05:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077993053445615649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "OuO02213882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077993053445615649",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077973011353989613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO02213882 午安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2077973011353989613",
+        "created_at": "2026-07-17T05:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077993053445615649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077993053445615649",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077973011353989613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO02213882 午安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2077973011353989613",
+        "created_at": "2026-07-17T04:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077973011353989613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077973011353989613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "午安喵\n睡前不該滑推特的喵\n心情爆炸了喵\n還是睡午覺吧喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）",
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 51,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "mtx？（我會焦慮,他不會）/忘了很多事/兩個人格共存（他會保護我）（為什麼我們記憶能互通？）/還在慢慢認識自己喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "pinned_tweet_id": "2074744246817714245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 2120,
+          "like_count": 44892,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

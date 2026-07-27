@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078784011217052156",
+    "created_at": "2026-07-20T09:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079131585547575621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062372266613338112",
+          "start": 0,
+          "username": "scarymq69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079131585547575621",
+    "in_reply_to_user_id": "2062372266613338112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078784011217052156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scarymq69 加了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078784008486535168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlTCraaQAAYgtF.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078784011217052156",
+        "created_at": "2026-07-20T09:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079131585547575621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062372266613338112",
+              "start": 0,
+              "username": "scarymq69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079131585547575621",
+        "in_reply_to_user_id": "2062372266613338112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078784011217052156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scarymq69 加了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078784008486535168"
+          ]
+        },
+        "author_id": "2062372266613338112",
+        "conversation_id": "2078784011217052156",
+        "created_at": "2026-07-19T10:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078784011217052156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zMbqzD0NgD",
+              "end": 43,
+              "expanded_url": "https://x.com/scarymq69/status/2078784011217052156/photo/1",
+              "media_key": "3_2078784008486535168",
+              "start": 20,
+              "url": "https://t.co/zMbqzD0NgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078784011217052156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想加的可以加😋😋\n目前好友还很少呢😋🥰 https://t.co/zMbqzD0NgD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 224,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T03:15:29.000Z",
+        "description": "discord:https://t.co/kRTt0dGT36\nngl:https://t.co/W9W5MzrfJz\nFb:https://t.co/4mJfWTZyVM\n和平ID：4755553056，加好友之前备注我在Twitter的姓名🤪",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/QBbCYht86Y",
+                "end": 31,
+                "expanded_url": "http://discord.gg/QBbCYht86Y",
+                "start": 8,
+                "url": "https://t.co/kRTt0dGT36"
+              },
+              {
+                "display_url": "ngl.link/pp19goo7h52573",
+                "end": 59,
+                "expanded_url": "http://ngl.link/pp19goo7h52573",
+                "start": 36,
+                "url": "https://t.co/W9W5MzrfJz"
+              },
+              {
+                "display_url": "facebook.com/share/1PfyiiDe…",
+                "end": 86,
+                "expanded_url": "http://facebook.com/share/1PfyiiDefn/",
+                "start": 63,
+                "url": "https://t.co/4mJfWTZyVM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=a97f90…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=a97f9025-e48f-4ad9-8389-f612693bdff6",
+                "start": 0,
+                "url": "https://t.co/ptenaS3SIa"
+              }
+            ]
+          }
+        },
+        "id": "2062372266613338112",
+        "location": "Hong Kong",
+        "name": "scary farmer",
+        "pinned_tweet_id": "2076671011718902212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078452074422177792/AvbpxN3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 264,
+          "like_count": 3413,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/ptenaS3SIa",
+        "username": "scarymq69",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078829492232167893",
+    "created_at": "2026-07-19T18:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T19:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078911773567262862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078911773567262862",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078829492232167893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DrilL019 99"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078829492232167893",
+        "created_at": "2026-07-19T18:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078911773567262862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078911773567262862",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078829492232167893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DrilL019 99"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "conversation_id": "2078829492232167893",
+        "created_at": "2026-07-19T13:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078829492232167893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drill019/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/drill019/status/2078828453034652043",
+              "start": 5,
+              "url": "https://t.co/Qae4GQx6je"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078829492232167893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 746,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078828453034652043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我表白了 https://t.co/Qae4GQx6je"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 213,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314\n爱人@qiyuncwno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "qiyuncwno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 1371,
+          "like_count": 23548,
+          "listed_count": 1,
+          "media_count": 997,
+          "tweet_count": 6841
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

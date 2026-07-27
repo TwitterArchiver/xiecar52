@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079198903245938688"
+      ]
+    },
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079198906874003607",
+    "created_at": "2026-07-20T13:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079198906874003607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lUPwxopeBD",
+          "end": 32,
+          "expanded_url": "https://x.com/xiecar52/status/2079198906874003607/photo/1",
+          "media_key": "3_2079198903245938688",
+          "start": 9,
+          "url": "https://t.co/lUPwxopeBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079198906874003607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃呃呃\n火鸡面吧 https://t.co/lUPwxopeBD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2079198903245938688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrMYu1bIAAeLfC.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079198903245938688"
+          ]
+        },
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079198906874003607",
+        "created_at": "2026-07-20T13:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079198906874003607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUPwxopeBD",
+              "end": 32,
+              "expanded_url": "https://x.com/xiecar52/status/2079198906874003607/photo/1",
+              "media_key": "3_2079198903245938688",
+              "start": 9,
+              "url": "https://t.co/lUPwxopeBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079198906874003607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃呃\n火鸡面吧 https://t.co/lUPwxopeBD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 234,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      }
+    ]
+  }
+}

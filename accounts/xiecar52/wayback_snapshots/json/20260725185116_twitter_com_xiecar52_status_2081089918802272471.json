@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081089912301088768"
+      ]
+    },
+    "author_id": "2077009828988493824",
+    "conversation_id": "2081089918802272471",
+    "created_at": "2026-07-25T18:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081089918802272471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DEt5jahOc8",
+          "end": 47,
+          "expanded_url": "https://x.com/xiecar52/status/2081089918802272471/photo/1",
+          "media_key": "3_2081089912301088768",
+          "start": 24,
+          "url": "https://t.co/DEt5jahOc8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081089918802272471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有谁找我聊天呀😭\nTelegram也可以😭 https://t.co/DEt5jahOc8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_2081089912301088768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGEP8ha8AA89NA.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081089912301088768"
+          ]
+        },
+        "author_id": "2077009828988493824",
+        "conversation_id": "2081089918802272471",
+        "created_at": "2026-07-25T18:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081089918802272471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DEt5jahOc8",
+              "end": 47,
+              "expanded_url": "https://x.com/xiecar52/status/2081089918802272471/photo/1",
+              "media_key": "3_2081089912301088768",
+              "start": 24,
+              "url": "https://t.co/DEt5jahOc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081089918802272471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有谁找我聊天呀😭\nTelegram也可以😭 https://t.co/DEt5jahOc8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 336,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      }
+    ]
+  }
+}

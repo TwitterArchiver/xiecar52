@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2078712372928405987",
+    "created_at": "2026-07-19T05:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078715857384145160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025216486760157184",
+          "start": 0,
+          "username": "Cosmo2267651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078715857384145160",
+    "in_reply_to_user_id": "2025216486760157184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078712372928405987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cosmo2267651 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078712361717014528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkR4SZbIAAIgKb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2078712372928405987",
+        "created_at": "2026-07-19T05:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078715857384145160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025216486760157184",
+              "start": 0,
+              "username": "Cosmo2267651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078715857384145160",
+        "in_reply_to_user_id": "2025216486760157184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078712372928405987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cosmo2267651 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078712361717014528"
+          ]
+        },
+        "author_id": "2025216486760157184",
+        "conversation_id": "2078712372928405987",
+        "created_at": "2026-07-19T05:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078712372928405987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rL1b2icKCW",
+              "end": 77,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2078712372928405987/photo/1",
+              "media_key": "3_2078712361717014528",
+              "start": 54,
+              "url": "https://t.co/rL1b2icKCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078712372928405987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "400fo了抽5个人\n1、60\n2、20\n3。15\n4，10x2rmb\n转发加评论即可\n欢迎扩列，\n周末开 https://t.co/rL1b2icKCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 179,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "额💊🔪同类互fo。男的，很友好的，欢迎扩列，",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhhhhh79341",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhhhhh79341",
+                "start": 0,
+                "url": "https://t.co/ngyfA7Q25G"
+              }
+            ]
+          }
+        },
+        "id": "2025216486760157184",
+        "location": "成都",
+        "name": "renhaoqiguai",
+        "pinned_tweet_id": "2077278367787978891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076599066172239872/T_QdGKWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 500,
+          "like_count": 2449,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/ngyfA7Q25G",
+        "username": "Cosmo2267651",
+        "verified": false
+      }
+    ]
+  }
+}

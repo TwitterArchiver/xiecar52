@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2077628384109326760",
+    "created_at": "2026-07-16T06:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077643091285307604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989984988566347777",
+          "start": 0,
+          "username": "moriyama197071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077643091285307604",
+    "in_reply_to_user_id": "1989984988566347777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077628384109326760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moriyama197071 就是感觉很可爱呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2077628384109326760",
+        "created_at": "2026-07-16T06:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077643091285307604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989984988566347777",
+              "start": 0,
+              "username": "moriyama197071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077643091285307604",
+        "in_reply_to_user_id": "1989984988566347777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077628384109326760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moriyama197071 就是感觉很可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989984988566347777",
+        "conversation_id": "2077628384109326760",
+        "created_at": "2026-07-16T05:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077628384109326760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077628384109326760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "フォロワー「你很可爱你很可爱」\n俺「なんで！！？！？！？！？！？！？」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）",
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 38,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T09:13:03.000Z",
+        "description": "🚹 💕→🇯🇵🇰🇷🇨🇳| I like ancient Chinese, Korean and Japanese history.| I use a translator.🙇 在学习中文|저는 한반도 역사의 초학자입니다.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/moriyama71",
+                "end": 23,
+                "expanded_url": "https://lit.link/moriyama71",
+                "start": 0,
+                "url": "https://t.co/8lMRIyxDYb"
+              }
+            ]
+          }
+        },
+        "id": "1989984988566347777",
+        "location": "🇯🇵",
+        "name": "moriyama(守山)",
+        "pinned_tweet_id": "2072151761356529693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072480811769810944/61X5XC1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 83,
+          "like_count": 3173,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/8lMRIyxDYb",
+        "username": "moriyama197071",
+        "verified": true
+      }
+    ]
+  }
+}

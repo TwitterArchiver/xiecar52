@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079464397798252615",
+    "created_at": "2026-07-21T07:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079474310666965346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2063159075572158465",
+          "start": 0,
+          "username": "Bochichan250hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079474310666965346",
+    "in_reply_to_user_id": "2063159075572158465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079464397798252615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bochichan250hh 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 451,
+        "media_key": "3_2079464216864378880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNu9sBFWUAAmcRQ.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079464397798252615",
+        "created_at": "2026-07-21T07:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079474310666965346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063159075572158465",
+              "start": 0,
+              "username": "Bochichan250hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079474310666965346",
+        "in_reply_to_user_id": "2063159075572158465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079464397798252615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bochichan250hh 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079464216864378880"
+          ]
+        },
+        "author_id": "2063159075572158465",
+        "conversation_id": "2079464397798252615",
+        "created_at": "2026-07-21T07:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079464397798252615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yeHmqOD5Lb",
+              "end": 43,
+              "expanded_url": "https://x.com/Bochichan250hh/status/2079464397798252615/photo/1",
+              "media_key": "3_2079464216864378880",
+              "start": 20,
+              "url": "https://t.co/yeHmqOD5Lb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079464397798252615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有生之年还能看到自己有400关注者ww https://t.co/yeHmqOD5Lb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTG:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 76,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 53,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 255,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户可以关注大号谢谢咯~\n苦练electric guitar 🎸\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeybig"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "name": "防尘迷呀awa🇰🇵🎸（互关）",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 392,
+          "like_count": 1900,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/dkFNyeybig",
+        "username": "Bochichan250hh",
+        "verified": false
+      }
+    ]
+  }
+}

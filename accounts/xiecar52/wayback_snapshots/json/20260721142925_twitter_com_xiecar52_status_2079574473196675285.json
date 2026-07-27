@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2079574473196675285",
+    "created_at": "2026-07-21T14:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079574473196675285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955980103688790017",
+          "start": 3,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079574473196675285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075112327888945514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaarjkk: **1000FOLLOWERS抽奖**\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖\n    10CNY💴---- 一份\n一等奖\n    5CNY💴----- 五份\n二等奖\n    1CNY💴---- 二十五份\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n参与条件:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075112325393293312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxHqmAaIAAU54l.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2079574473196675285",
+        "created_at": "2026-07-21T14:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079574473196675285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955980103688790017",
+              "start": 3,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079574473196675285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075112327888945514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaarjkk: **1000FOLLOWERS抽奖**\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖\n    10CNY💴---- 一份\n一等奖\n    5CNY💴----- 五份\n二等奖\n    1CNY💴---- 二十五份\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n参与条件:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075112325393293312"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2075112327888945514",
+        "created_at": "2026-07-09T06:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075112327888945514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJLEl8DCkj",
+              "end": 213,
+              "expanded_url": "https://x.com/aaarjkk/status/2075112327888945514/photo/1",
+              "media_key": "3_2075112325393293312",
+              "start": 190,
+              "url": "https://t.co/VJLEl8DCkj"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 237,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2075106168327073876",
+              "start": 214,
+              "url": "https://t.co/29B8vsVzQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075112327888945514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "**1000FOLLOWERS抽奖**\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖\n    10CNY💴---- 一份\n一等奖\n    5CNY💴----- 五份\n二等奖\n    1CNY💴---- 二十五份\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n参与条件:\n    关注\n    点赞\n    转贴\n    评论\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n感谢大家\n于2026年7月11日用Grok开奖\n奖品将使用微信支付发放"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9768,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075106168327073876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "**1000FOLLOWERS抽奖**\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n特等奖\n    10CNY💴---- 一份\n一等奖\n    5CNY💴----- 五份\n二等奖\n    1CNY💴---- 二十五份\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n参与条件:\n    关注\n    点赞\n    转贴\n    评论\n\n😋😋😋😋😋😋😋😋😋😋😋😋\n\n感谢大家\n于2026年7月11日用Grok开奖 https://t.co/VJLEl8DCkj https://t.co/29B8vsVzQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 82,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 59,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 278,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 1156,
+          "like_count": 24464,
+          "listed_count": 5,
+          "media_count": 558,
+          "tweet_count": 3401
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

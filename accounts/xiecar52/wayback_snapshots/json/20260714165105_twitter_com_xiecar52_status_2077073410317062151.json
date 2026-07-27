@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2077039639635140956",
+    "created_at": "2026-07-14T16:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077073410317062151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1405462099153747973",
+          "start": 0,
+          "username": "rushi_ice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077073410317062151",
+    "in_reply_to_user_id": "1405462099153747973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077039639635140956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rushi_ice 玩得开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2077039639635140956",
+        "created_at": "2026-07-14T16:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077073410317062151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1405462099153747973",
+              "start": 0,
+              "username": "rushi_ice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077073410317062151",
+        "in_reply_to_user_id": "1405462099153747973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077039639635140956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rushi_ice 玩得开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1405462099153747973",
+        "conversation_id": "2077039639635140956",
+        "created_at": "2026-07-14T14:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077039639635140956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077039639635140956",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1791,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "入国しましたツイート、めちゃくちゃ歓迎されててビビってる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "",
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 28,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-17T09:47:38.000Z",
+        "description": "初音ミク・ねんどろいどどーるとふわカスタム・旅行・飛行機🟥JMBｻﾌｧｲｱ🟦\n　訪問済→🇹🇼🇸🇬🇲🇾🇹🇭🇭🇰🇻🇳🇨🇳\nフォロバしてません",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/rushi_ice/",
+                "end": 23,
+                "expanded_url": "https://note.com/rushi_ice/",
+                "start": 0,
+                "url": "https://t.co/7shnWLoplD"
+              }
+            ]
+          }
+        },
+        "id": "1405462099153747973",
+        "location": "羽田空港第1ターミナル",
+        "name": "あるしあ",
+        "pinned_tweet_id": "1767164914983117297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749757453368274944/oTsa8A5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 453,
+          "like_count": 165478,
+          "listed_count": 11,
+          "media_count": 4614,
+          "tweet_count": 54141
+        },
+        "url": "https://t.co/7shnWLoplD",
+        "username": "rushi_ice",
+        "verified": false
+      }
+    ]
+  }
+}
