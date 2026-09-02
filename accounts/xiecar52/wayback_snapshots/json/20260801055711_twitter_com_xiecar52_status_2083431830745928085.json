@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2083371710892605522",
+    "created_at": "2026-08-01T05:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083431830745928085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037086952034566144",
+          "start": 0,
+          "username": "tsingin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083431830745928085",
+    "in_reply_to_user_id": "2037086952034566144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083371710892605522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsingin1 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 522,
+        "media_key": "3_2083371702411735040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmfhnFaMAAkYeh.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2083371710892605522",
+        "created_at": "2026-08-01T05:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083431830745928085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037086952034566144",
+              "start": 0,
+              "username": "tsingin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083431830745928085",
+        "in_reply_to_user_id": "2037086952034566144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083371710892605522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsingin1 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083371702411735040"
+          ]
+        },
+        "author_id": "2037086952034566144",
+        "conversation_id": "2083371710892605522",
+        "created_at": "2026-08-01T01:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083371710892605522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyIlszjhBw",
+              "end": 62,
+              "expanded_url": "https://x.com/tsingin1/status/2083371710892605522/photo/1",
+              "media_key": "3_2083371702411735040",
+              "start": 39,
+              "url": "https://t.co/YyIlszjhBw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083371710892605522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下课刷刷推特，刚打开就被骂了（哭哭）\n其实这条帖是纪念我250fo哦。爱你们 https://t.co/YyIlszjhBw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 356,
+          "like_count": 1147,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T08:39:20.000Z",
+        "description": "国家：🇨🇳\n恋人：@falrense\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间 维多利亚3 pjsk phigros Milthm cytus2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "falrense"
+              }
+            ]
+          }
+        },
+        "id": "2037086952034566144",
+        "name": "初白洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079803820205551616/KDVVyW8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 335,
+          "like_count": 1734,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1170
+        },
+        "url": "",
+        "username": "tsingin1",
+        "verified": false
+      }
+    ]
+  }
+}

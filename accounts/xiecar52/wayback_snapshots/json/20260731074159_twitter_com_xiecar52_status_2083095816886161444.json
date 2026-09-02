@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2083047267611947078",
+    "created_at": "2026-07-31T07:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083095816886161444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062372266613338112",
+          "start": 0,
+          "username": "scarymq69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083095816886161444",
+    "in_reply_to_user_id": "2062372266613338112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083047267611947078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scarymq69 坎头定理😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2280,
+        "media_key": "3_2083047256538947584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh4cYBbIAA3G6t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2083047267611947078",
+        "created_at": "2026-07-31T07:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083095816886161444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062372266613338112",
+              "start": 0,
+              "username": "scarymq69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083095816886161444",
+        "in_reply_to_user_id": "2062372266613338112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083047267611947078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scarymq69 坎头定理😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083047256538947584"
+          ]
+        },
+        "author_id": "2062372266613338112",
+        "conversation_id": "2083047267611947078",
+        "created_at": "2026-07-31T04:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083047267611947078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iMhPOJ3sBI",
+              "end": 32,
+              "expanded_url": "https://x.com/scarymq69/status/2083047267611947078/photo/1",
+              "media_key": "3_2083047256538947584",
+              "start": 9,
+              "url": "https://t.co/iMhPOJ3sBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083047267611947078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么定理？😋😋😋 https://t.co/iMhPOJ3sBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 351,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T03:15:29.000Z",
+        "description": "discord:https://t.co/kRTt0dGT36\nngl:https://t.co/W9W5MzrfJz\nFb:https://t.co/4mJfWTZyVM\n和平ID：4755553056，加好友之前备注我在Twitter的姓名\n8月25之前超过300followers抄名",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/QBbCYht86Y",
+                "end": 31,
+                "expanded_url": "http://discord.gg/QBbCYht86Y",
+                "start": 8,
+                "url": "https://t.co/kRTt0dGT36"
+              },
+              {
+                "display_url": "ngl.link/pp19goo7h52573",
+                "end": 59,
+                "expanded_url": "http://ngl.link/pp19goo7h52573",
+                "start": 36,
+                "url": "https://t.co/W9W5MzrfJz"
+              },
+              {
+                "display_url": "facebook.com/share/1PfyiiDe…",
+                "end": 86,
+                "expanded_url": "http://facebook.com/share/1PfyiiDefn/",
+                "start": 63,
+                "url": "https://t.co/4mJfWTZyVM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=a97f90…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=a97f9025-e48f-4ad9-8389-f612693bdff6",
+                "start": 0,
+                "url": "https://t.co/ptenaS3kSC"
+              }
+            ]
+          }
+        },
+        "id": "2062372266613338112",
+        "location": "Hong Kong",
+        "name": "scary farmer",
+        "pinned_tweet_id": "2076671011718902212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083067630739759104/CDVBiDdT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 202,
+          "like_count": 4411,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 2256
+        },
+        "url": "https://t.co/ptenaS3kSC",
+        "username": "scarymq69",
+        "verified": false
+      }
+    ]
+  }
+}

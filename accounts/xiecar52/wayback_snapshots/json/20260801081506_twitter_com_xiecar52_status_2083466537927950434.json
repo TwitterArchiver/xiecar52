@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083438571500064770"
+      ],
+      "media_source_tweet_id": [
+        "2083438581217894519"
+      ]
+    },
+    "author_id": "2077009828988493824",
+    "conversation_id": "2083466537927950434",
+    "created_at": "2026-08-01T08:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083466537927950434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2082124926375649280",
+          "start": 3,
+          "username": "Yuki281331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mRTELz5M1y",
+          "end": 46,
+          "expanded_url": "https://x.com/Yuki281331/status/2083438581217894519/photo/1",
+          "media_key": "3_2083438571500064770",
+          "start": 23,
+          "url": "https://t.co/mRTELz5M1y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083466537927950434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083438581217894519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki281331: 岐哥已坠机😔 https://t.co/mRTELz5M1y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2136,
+        "media_key": "3_2083438571500064770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOncV52b0AIHThW.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083438571500064770"
+          ]
+        },
+        "author_id": "2082124926375649280",
+        "conversation_id": "2083438581217894519",
+        "created_at": "2026-08-01T06:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083438581217894519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRTELz5M1y",
+              "end": 30,
+              "expanded_url": "https://x.com/Yuki281331/status/2083438581217894519/photo/1",
+              "media_key": "3_2083438571500064770",
+              "start": 7,
+              "url": "https://t.co/mRTELz5M1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083438581217894519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 525,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "岐哥已坠机😔 https://t.co/mRTELz5M1y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083438571500064770"
+          ],
+          "media_source_tweet_id": [
+            "2083438581217894519"
+          ]
+        },
+        "author_id": "2077009828988493824",
+        "conversation_id": "2083466537927950434",
+        "created_at": "2026-08-01T08:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083466537927950434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2082124926375649280",
+              "start": 3,
+              "username": "Yuki281331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRTELz5M1y",
+              "end": 46,
+              "expanded_url": "https://x.com/Yuki281331/status/2083438581217894519/photo/1",
+              "media_key": "3_2083438571500064770",
+              "start": 23,
+              "url": "https://t.co/mRTELz5M1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083466537927950434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083438581217894519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki281331: 岐哥已坠机😔 https://t.co/mRTELz5M1y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 350,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "",
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋天台",
+        "name": "岐哥，梦想哭了。",
+        "pinned_tweet_id": "2082126516864028861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082436356186460160/kNRd-FbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 60,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

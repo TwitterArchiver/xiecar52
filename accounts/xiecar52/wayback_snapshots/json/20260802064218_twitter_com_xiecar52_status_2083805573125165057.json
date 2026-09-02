@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2083728629482320335",
+    "created_at": "2026-08-02T06:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083805573125165057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037086952034566144",
+          "start": 0,
+          "username": "tsingin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083805573125165057",
+    "in_reply_to_user_id": "2037086952034566144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083728629482320335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsingin1 魔了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2083728594896080896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrkHfMa0AA6YDx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2083728617620873216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrkIz2boAAKhTk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2083728629482320335",
+        "created_at": "2026-08-02T06:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083805573125165057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037086952034566144",
+              "start": 0,
+              "username": "tsingin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083805573125165057",
+        "in_reply_to_user_id": "2037086952034566144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083728629482320335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsingin1 魔了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083728594896080896",
+            "3_2083728617620873216"
+          ]
+        },
+        "author_id": "2037086952034566144",
+        "conversation_id": "2083728629482320335",
+        "created_at": "2026-08-02T01:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083728629482320335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpF5jNoEh2",
+              "end": 38,
+              "expanded_url": "https://x.com/tsingin1/status/2083728629482320335/photo/1",
+              "media_key": "3_2083728594896080896",
+              "start": 15,
+              "url": "https://t.co/LpF5jNoEh2"
+            },
+            {
+              "display_url": "pic.x.com/LpF5jNoEh2",
+              "end": 38,
+              "expanded_url": "https://x.com/tsingin1/status/2083728629482320335/photo/1",
+              "media_key": "3_2083728617620873216",
+              "start": 15,
+              "url": "https://t.co/LpF5jNoEh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083728629482320335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1726,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这种人来这里到底是干什么的？ https://t.co/LpF5jNoEh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 355,
+          "like_count": 1165,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T08:39:20.000Z",
+        "description": "国家：🇨🇳\n恋人：@falrense\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间 维多利亚3 pjsk phigros Milthm cytus2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "falrense"
+              }
+            ]
+          }
+        },
+        "id": "2037086952034566144",
+        "name": "初白洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079803820205551616/KDVVyW8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 307,
+          "like_count": 2174,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1324
+        },
+        "url": "",
+        "username": "tsingin1",
+        "verified": false
+      }
+    ]
+  }
+}

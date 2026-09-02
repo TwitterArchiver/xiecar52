@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2091399455073538483",
+    "created_at": "2026-08-23T05:37:41.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T06:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091399455073538483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690190225891340288",
+          "start": 3,
+          "username": "MirataLee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091399455073538483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091198397252550845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MirataLee: 不想开学啊，在学校根本没朋友，到哪里都是自己一个人的，感觉好难受好痛心，唯一的慰藉就是每天放学跑到饭堂吃饭和回宿舍摆弄十分钟小手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2091399455073538483",
+        "created_at": "2026-08-23T05:37:41.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091399455073538483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690190225891340288",
+              "start": 3,
+              "username": "MirataLee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091399455073538483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091198397252550845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MirataLee: 不想开学啊，在学校根本没朋友，到哪里都是自己一个人的，感觉好难受好痛心，唯一的慰藉就是每天放学跑到饭堂吃饭和回宿舍摆弄十分钟小手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690190225891340288",
+        "conversation_id": "2091198397252550845",
+        "created_at": "2026-08-22T16:18:45.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091198397252550845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091198397252550845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想开学啊，在学校根本没朋友，到哪里都是自己一个人的，感觉好难受好痛心，唯一的慰藉就是每天放学跑到饭堂吃饭和回宿舍摆弄十分钟小手机"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091399455073538483",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 382,
+          "like_count": 1626,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-12T02:35:35.000Z",
+        "description": "计算机/电影/逗猫/旅游\n老公 @blu_2116519615\n如果可以的话，很荣幸和你交朋友！\n再次感谢关注我🌹\nMTX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "blu_2116519615"
+              }
+            ]
+          }
+        },
+        "id": "1690190225891340288",
+        "is_identity_verified": false,
+        "location": "Nagoya-shi Meito, Aichi",
+        "most_recent_tweet_id": "2091373497016873144",
+        "name": "Miller",
+        "pinned_tweet_id": "2087684176447508929",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690190225891340288/1784465965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690190425816969217/EYMCsc36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 165,
+          "like_count": 4774,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 1944
+        },
+        "url": "",
+        "username": "MirataLee",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2081287700259410422",
+    "created_at": "2026-07-26T21:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081495397865005300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "313395121",
+          "start": 0,
+          "username": "yu_fatai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081495397865005300",
+    "in_reply_to_user_id": "313395121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081287700259410422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_fatai 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_2081287686112043008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOI4H5YaYAAeKWn.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2081287673231372288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOI4HJZa8AAfu0n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2081287700259410422",
+        "created_at": "2026-07-26T21:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081495397865005300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "313395121",
+              "start": 0,
+              "username": "yu_fatai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081495397865005300",
+        "in_reply_to_user_id": "313395121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081287700259410422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_fatai 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081287686112043008",
+            "3_2081287673231372288"
+          ]
+        },
+        "author_id": "313395121",
+        "conversation_id": "2081287700259410422",
+        "created_at": "2026-07-26T07:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081287700259410422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kd2y62l5ke",
+              "end": 63,
+              "expanded_url": "https://x.com/yu_fatai/status/2081287700259410422/photo/1",
+              "media_key": "3_2081287686112043008",
+              "start": 40,
+              "url": "https://t.co/kd2y62l5ke"
+            },
+            {
+              "display_url": "pic.x.com/kd2y62l5ke",
+              "end": 63,
+              "expanded_url": "https://x.com/yu_fatai/status/2081287700259410422/photo/1",
+              "media_key": "3_2081287673231372288",
+              "start": 40,
+              "url": "https://t.co/kd2y62l5ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081287700259410422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 322,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我是洛，大号被封七天，无奈小号没流量🥹\n转发关注评论抽一个人v50\n五天后开奖 https://t.co/kd2y62l5ke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 348,
+          "like_count": 995,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-08T15:56:08.000Z",
+        "description": "此号为避难所，大号：@wndsfefoumxlw6\n买电子烟➕v：c313s852j0976",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "wndsfefoumxlw6"
+              }
+            ]
+          }
+        },
+        "id": "313395121",
+        "name": "云（洛4.0）",
+        "pinned_tweet_id": "2081287700259410422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075116662051995649/t1MTpwrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 26,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "yu_fatai",
+        "verified": false
+      }
+    ]
+  }
+}

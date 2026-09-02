@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2083022475747803381",
+    "created_at": "2026-07-31T02:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083022475747803381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883207896768651264",
+          "start": 3,
+          "username": "clem0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083022475747803381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083011110119317698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clem0216: Ok啊，也是达到1000fo了\n接下来就是抽奖了\n参加抽奖的条件为:转贴关注点赞评论\n特等奖:13.14元\n一等奖:11.45元\n二等奖:7.77元\n三等奖:5.20元\n四等奖:2.16元\n安慰奖/参与奖:1元，需要主动联系我，没有联系我的自动放弃安…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2083022475747803381",
+        "created_at": "2026-07-31T02:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083022475747803381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883207896768651264",
+              "start": 3,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083022475747803381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083011110119317698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clem0216: Ok啊，也是达到1000fo了\n接下来就是抽奖了\n参加抽奖的条件为:转贴关注点赞评论\n特等奖:13.14元\n一等奖:11.45元\n二等奖:7.77元\n三等奖:5.20元\n四等奖:2.16元\n安慰奖/参与奖:1元，需要主动联系我，没有联系我的自动放弃安…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2083011110119317698",
+        "created_at": "2026-07-31T02:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083011110119317698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083011110119317698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Ok啊，也是达到1000fo了\n接下来就是抽奖了\n参加抽奖的条件为:转贴关注点赞评论\n特等奖:13.14元\n一等奖:11.45元\n二等奖:7.77元\n三等奖:5.20元\n四等奖:2.16元\n安慰奖/参与奖:1元，需要主动联系我，没有联系我的自动放弃安慰奖/参与奖\n三天之后的中午3点开奖\n小波奇没什么钱，所以就这样了，对不起，小波奇穷穷的，是个小可怜呢\n会用grok开奖，保证公平公正"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 293,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Ok啊，也是达到1000fo了\n接下来就是抽奖了\n参加抽奖的条件为:转贴关注点赞评论\n特等奖:13.14元\n一等奖:11.45元\n二等奖:7.77元\n三等奖:5.20元\n四等奖:2.16元\n安慰奖/参与奖:1元，需要主动联系我，没有联系我的自动放弃安慰奖/参与奖\n三天之后的中午3点开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 353,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千五百fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPqCil"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 693,
+          "like_count": 13306,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1079
+        },
+        "url": "https://t.co/WPFwIPqCil",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

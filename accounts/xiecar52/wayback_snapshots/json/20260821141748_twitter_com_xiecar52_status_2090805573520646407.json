@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090216461403144193"
+      ],
+      "media_source_tweet_id": [
+        "2090438708461818030"
+      ]
+    },
+    "author_id": "2077009828988493824",
+    "conversation_id": "2090805573520646407",
+    "created_at": "2026-08-21T14:17:48.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090805573520646407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962302660541079552",
+          "start": 3,
+          "username": "yuerQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9JvtuWK8k",
+          "end": 39,
+          "expanded_url": "https://x.com/yuerQwQ/status/2090438708461818030/photo/1",
+          "media_key": "3_2090216461403144193",
+          "start": 16,
+          "url": "https://t.co/L9JvtuWK8k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090805573520646407",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090216461403144193"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090438708461818030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuerQwQ: …… https://t.co/L9JvtuWK8k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2090216461403144193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHwzBWbwAElv4v.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090216461403144193"
+          ],
+          "media_source_tweet_id": [
+            "2090438708461818030"
+          ]
+        },
+        "author_id": "2077009828988493824",
+        "conversation_id": "2090805573520646407",
+        "created_at": "2026-08-21T14:17:48.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090805573520646407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962302660541079552",
+              "start": 3,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9JvtuWK8k",
+              "end": 39,
+              "expanded_url": "https://x.com/yuerQwQ/status/2090438708461818030/photo/1",
+              "media_key": "3_2090216461403144193",
+              "start": 16,
+              "url": "https://t.co/L9JvtuWK8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090805573520646407",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090216461403144193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090438708461818030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuerQwQ: …… https://t.co/L9JvtuWK8k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090216461403144193"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2090438708461818030",
+        "created_at": "2026-08-20T14:00:01.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090438708461818030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9JvtuWK8k",
+              "end": 26,
+              "expanded_url": "https://x.com/yuerQwQ/status/2090438708461818030/photo/1",
+              "media_key": "3_2090216461403144193",
+              "start": 3,
+              "url": "https://t.co/L9JvtuWK8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090438708461818030",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090216461403144193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 17847,
+          "like_count": 1034,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "…… https://t.co/L9JvtuWK8k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090805573520646407",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 369,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "18岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨180身高体重108丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨主人@huihui_mikumi丨或许我只剩她了：@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "picxis63594"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2090801095127843239",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1756803789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3366,
+          "following_count": 1586,
+          "like_count": 17322,
+          "listed_count": 4,
+          "media_count": 1383,
+          "tweet_count": 5130
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

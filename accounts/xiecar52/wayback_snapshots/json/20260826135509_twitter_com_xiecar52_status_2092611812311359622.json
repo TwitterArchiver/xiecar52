@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2092611812311359622",
+    "created_at": "2026-08-26T13:55:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092611812311359622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090032448050524161",
+          "start": 3,
+          "username": "Yuki1161taff"
+        },
+        {
+          "end": 39,
+          "id": "2089539877914419200",
+          "start": 24,
+          "username": "LoriMartin5sps"
+        },
+        {
+          "end": 84,
+          "id": "2086659590444433408",
+          "start": 73,
+          "username": "Mercydrugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092611812311359622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092588231426560494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki1161taff: 掛頭非人類 @LoriMartin5sps 請各位轉發\n最近有此類人專門舉報各類群體 不知何意味\n經查證小貓🐱@Mercydrugs 曾被它舉報封禁\n並且在我問候它之後\n20：11 開始始舉報我的帖子也是成功光速讓我刪帖，可見此頭非人類的素質…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1545,
+        "media_key": "3_2092587873719484418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpdlYpXAAIGem_.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1055,
+        "media_key": "3_2092587888143695872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpdmOYXAAAhfce.jpg",
+        "width": 1052
+      },
+      {
+        "height": 2266,
+        "media_key": "3_2092588146240241664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpd1P3XwAAcClG.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1809,
+        "media_key": "3_2092588214607351810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpd5OjXEAICM1f.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2092611812311359622",
+        "created_at": "2026-08-26T13:55:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092611812311359622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090032448050524161",
+              "start": 3,
+              "username": "Yuki1161taff"
+            },
+            {
+              "end": 39,
+              "id": "2089539877914419200",
+              "start": 24,
+              "username": "LoriMartin5sps"
+            },
+            {
+              "end": 84,
+              "id": "2086659590444433408",
+              "start": 73,
+              "username": "Mercydrugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092611812311359622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092588231426560494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki1161taff: 掛頭非人類 @LoriMartin5sps 請各位轉發\n最近有此類人專門舉報各類群體 不知何意味\n經查證小貓🐱@Mercydrugs 曾被它舉報封禁\n並且在我問候它之後\n20：11 開始始舉報我的帖子也是成功光速讓我刪帖，可見此頭非人類的素質…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092587873719484418",
+            "3_2092587888143695872",
+            "3_2092588146240241664",
+            "3_2092588214607351810"
+          ]
+        },
+        "author_id": "2090032448050524161",
+        "conversation_id": "2092588231426560494",
+        "created_at": "2026-08-26T12:21:27.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092588231426560494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2089539877914419200",
+              "start": 6,
+              "username": "LoriMartin5sps"
+            },
+            {
+              "end": 66,
+              "id": "2086659590444433408",
+              "start": 55,
+              "username": "Mercydrugs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kc5vJa6Obt",
+              "end": 168,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2092588231426560494/photo/1",
+              "media_key": "3_2092587873719484418",
+              "start": 145,
+              "url": "https://t.co/Kc5vJa6Obt"
+            },
+            {
+              "display_url": "pic.x.com/Kc5vJa6Obt",
+              "end": 168,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2092588231426560494/photo/1",
+              "media_key": "3_2092587888143695872",
+              "start": 145,
+              "url": "https://t.co/Kc5vJa6Obt"
+            },
+            {
+              "display_url": "pic.x.com/Kc5vJa6Obt",
+              "end": 168,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2092588231426560494/photo/1",
+              "media_key": "3_2092588146240241664",
+              "start": 145,
+              "url": "https://t.co/Kc5vJa6Obt"
+            },
+            {
+              "display_url": "pic.x.com/Kc5vJa6Obt",
+              "end": 168,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2092588231426560494/photo/1",
+              "media_key": "3_2092588214607351810",
+              "start": 145,
+              "url": "https://t.co/Kc5vJa6Obt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092588231426560494",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092587873719484418"
+          },
+          {
+            "media_key": "3_2092587888143695872"
+          },
+          {
+            "media_key": "3_2092588146240241664"
+          },
+          {
+            "media_key": "3_2092588214607351810"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "掛頭非人類 @LoriMartin5sps 請各位轉發\n最近有此類人專門舉報各類群體 不知何意味\n經查證小貓🐱@Mercydrugs 曾被它舉報封禁\n並且在我問候它之後\n20：11 開始始舉報我的帖子也是成功光速讓我刪帖，可見此頭非人類的素質極低，請各位發帖注意措辭，並且注意拉黑這它👇🏻 https://t.co/Kc5vJa6Obt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092611812311359622",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 405,
+          "like_count": 1995,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:46.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n男/互fo微查成分可以私信互fo，全友好，友善中立\n💊/🔪/妈妈@Cecey33\n導師 @kingCrimson_09\n\n对不起，我可能有时候很坏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "Cecey33"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "kingCrimson_09"
+              }
+            ]
+          }
+        },
+        "id": "2090032448050524161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092606900697202945",
+        "name": "岐哥。5號機。#心宿二",
+        "pinned_tweet_id": "2092588231426560494",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032448050524161/1787138596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092451553412079616/ujbHdi_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 290,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "Yuki1161taff",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T02:28:44.000Z",
+        "description": "Living in Kaylaview",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "henry.io",
+                "end": 23,
+                "expanded_url": "https://henry.io",
+                "start": 0,
+                "url": "https://t.co/hFhouY3Krt"
+              }
+            ]
+          }
+        },
+        "id": "2089539877914419200",
+        "is_identity_verified": false,
+        "location": "Haiti",
+        "most_recent_tweet_id": "2092484430900367864",
+        "name": "Lori Martinez",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089539877914419200/1787216633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090363097001213952/t8v2ppw4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/hFhouY3Krt",
+        "username": "LoriMartin5sps",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T03:43:58.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR.｜💊🔪🩸\n出PR、DPT、1161及各类致幻剂。",
+        "id": "2086659590444433408",
+        "is_identity_verified": false,
+        "location": "💖@liyfn130024",
+        "most_recent_tweet_id": "2091996282558742601",
+        "name": "Mercy",
+        "pinned_tweet_id": "2089164623522205867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086659590444433408/1787353946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090940066206199808/fYjlzG6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 189,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "Mercydrugs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

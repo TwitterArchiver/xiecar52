@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092532035399356416"
+      ],
+      "media_source_tweet_id": [
+        "2092532057943777405"
+      ]
+    },
+    "author_id": "2077009828988493824",
+    "conversation_id": "2092613298525180195",
+    "created_at": "2026-08-26T14:01:03.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092613298525180195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5cIu9jU2p9",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/2092532057943777405/photo/1",
+          "media_key": "3_2092532035399356416",
+          "start": 11,
+          "url": "https://t.co/5cIu9jU2p9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092613298525180195",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2092532035399356416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092532057943777405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/5cIu9jU2p9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2092532035399356416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoqzKsakAA3lYW.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092532035399356416"
+          ],
+          "media_source_tweet_id": [
+            "2092532057943777405"
+          ]
+        },
+        "author_id": "2077009828988493824",
+        "conversation_id": "2092613298525180195",
+        "created_at": "2026-08-26T14:01:03.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092613298525180195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5cIu9jU2p9",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/2092532057943777405/photo/1",
+              "media_key": "3_2092532035399356416",
+              "start": 11,
+              "url": "https://t.co/5cIu9jU2p9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092613298525180195",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092532035399356416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092532057943777405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/5cIu9jU2p9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092532035399356416"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2092532057943777405",
+        "created_at": "2026-08-26T08:38:14.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092532057943777405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5cIu9jU2p9",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2092532057943777405/photo/1",
+              "media_key": "3_2092532035399356416",
+              "start": 0,
+              "url": "https://t.co/5cIu9jU2p9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092532057943777405",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092532035399356416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5452,
+          "like_count": 363,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5cIu9jU2p9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092613298525180195",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 405,
+          "like_count": 2000,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092548322280251867",
+        "name": "恋",
+        "pinned_tweet_id": "2092532233190232366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1507396901594820608/1730777810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96851,
+          "following_count": 2353,
+          "like_count": 45565,
+          "listed_count": 141,
+          "media_count": 4631,
+          "tweet_count": 9074
+        },
+        "url": "",
+        "username": "hgds0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

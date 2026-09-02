@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2092282353007898886",
+    "created_at": "2026-08-25T16:34:27.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092289514903613953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948364171160227840",
+          "start": 0,
+          "username": "Mak1287267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092289514903613953",
+    "in_reply_to_user_id": "1948364171160227840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092282353007898886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mak1287267 晚安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2092282353007898886",
+        "created_at": "2026-08-25T16:34:27.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092289514903613953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948364171160227840",
+              "start": 0,
+              "username": "Mak1287267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092289514903613953",
+        "in_reply_to_user_id": "1948364171160227840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092282353007898886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mak1287267 晚安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948364171160227840",
+        "conversation_id": "2092282353007898886",
+        "created_at": "2026-08-25T16:06:00.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092282353007898886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092282353007898886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家晚安安😚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092289514903613953",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 402,
+          "like_count": 1885,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T12:46:46.000Z",
+        "description": "🇨🇳10高二\n大号@mmrnadna2\n🔑号@lhnjanwoainimen\n希望和大家能多多聊天🥺\nDM什么的请随意不用拘谨\n无言关注真是抱歉了\n永远最好最可爱的弟弟🥰永远爱你@Mark67358226\n永远最好最可爱的妹妹🥰永远爱你@XiyangMinzhiXiy\n最香草的入@YaoieLoop😻😍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "mmrnadna2"
+              },
+              {
+                "end": 38,
+                "start": 22,
+                "username": "lhnjanwoainimen"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Mark67358226"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "XiyangMinzhiXiy"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "YaoieLoop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=ebf878…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=ebf87838-64ac-4aeb-86ec-fcfe7518097e",
+                "start": 0,
+                "url": "https://t.co/lsiXEDgSC7"
+              }
+            ]
+          }
+        },
+        "id": "1948364171160227840",
+        "is_identity_verified": false,
+        "location": "Utopia😽",
+        "most_recent_tweet_id": "2092282353007898886",
+        "name": "断桥边看雨",
+        "pinned_tweet_id": "2089993523873599505",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948364171160227840/1784988765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079164753587712000/PiX4152k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 497,
+          "like_count": 8018,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1958
+        },
+        "url": "https://t.co/lsiXEDgSC7",
+        "username": "Mak1287267",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

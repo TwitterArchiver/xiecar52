@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2087454882853015939",
+    "created_at": "2026-08-12T18:52:48.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087613288830119987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083872895659634688",
+          "start": 0,
+          "username": "LingYu0612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087613288830119987",
+    "in_reply_to_user_id": "2083872895659634688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087454882853015939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingYu0612 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2087454485958541312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPggy5BawAAga6H.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2087454864347648000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPghI6oaUAAsz72.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2087454882853015939",
+        "created_at": "2026-08-12T18:52:48.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087613288830119987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083872895659634688",
+              "start": 0,
+              "username": "LingYu0612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087613288830119987",
+        "in_reply_to_user_id": "2083872895659634688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087454882853015939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingYu0612 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087454485958541312",
+            "3_2087454864347648000"
+          ]
+        },
+        "author_id": "2083872895659634688",
+        "conversation_id": "2087454882853015939",
+        "created_at": "2026-08-12T08:23:21.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087454882853015939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sj2pvbuGwd",
+              "end": 168,
+              "expanded_url": "https://x.com/LingYu0612/status/2087454882853015939/photo/1",
+              "media_key": "3_2087454485958541312",
+              "start": 145,
+              "url": "https://t.co/sj2pvbuGwd"
+            },
+            {
+              "display_url": "pic.x.com/sj2pvbuGwd",
+              "end": 168,
+              "expanded_url": "https://x.com/LingYu0612/status/2087454882853015939/photo/1",
+              "media_key": "3_2087454864347648000",
+              "start": 145,
+              "url": "https://t.co/sj2pvbuGwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087454882853015939",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087454485958541312"
+          },
+          {
+            "media_key": "3_2087454864347648000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "500fo纪念！感谢大家的支持！同时也希望大家平时看到咱时也能够多陪陪咱聊聊天，以及进行一次抽奖吧，目前咱这边的家境不是特别好所以只能发一些小物品了（应该不会嫌弃吧）\n\n一等奖:国色8颗（散装），可折现60  1份\n二等奖:国补*1，可折现25  2份\n三等奖:支付宝口令红包20 10份\n参与奖:Q群发送10元拼手气群红包（共计10个）\n\n参与抽取奖励方式:关注，转帖，评论，将会在评论区内用Grok进行随机抽取\n\n开奖时间:8.16"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 931,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "500fo纪念！感谢大家的支持！同时也希望大家平时看到咱时也能够多陪陪咱聊聊天，以及进行一次抽奖吧，目前咱这边的家境不是特别好所以只能发一些小物品了（应该不会嫌弃吧）\n\n一等奖:国色8颗（散装），可折现60  1份\n二等奖:国补*1，可折现25  2份\n三等奖:支付宝口令红包20 10份 https://t.co/sj2pvbuGwd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087613288830119987",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 371,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T11:11:24.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "id": "2083872895659634688",
+        "is_identity_verified": false,
+        "location": "重庆市",
+        "most_recent_tweet_id": "2087587069497335866",
+        "name": "泠羽🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085551277539459355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083872895659634688/1785669611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 303,
+          "like_count": 2277,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "LingYu0612",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

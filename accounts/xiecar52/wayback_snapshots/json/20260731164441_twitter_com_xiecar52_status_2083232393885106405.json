@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2083203443058172208",
+    "created_at": "2026-07-31T16:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083232393885106405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852686868846092288",
+          "start": 0,
+          "username": "TL_Xingyi"
+        },
+        {
+          "end": 21,
+          "id": "1686914633314013184",
+          "start": 11,
+          "username": "KTD593yug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083232393885106405",
+    "in_reply_to_user_id": "1852686868846092288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083203443058172208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TL_Xingyi @KTD593yug 恭喜喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2083203443058172208",
+        "created_at": "2026-07-31T16:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083232393885106405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852686868846092288",
+              "start": 0,
+              "username": "TL_Xingyi"
+            },
+            {
+              "end": 21,
+              "id": "1686914633314013184",
+              "start": 11,
+              "username": "KTD593yug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083232393885106405",
+        "in_reply_to_user_id": "1852686868846092288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083203443058172208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TL_Xingyi @KTD593yug 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852686868846092288",
+        "conversation_id": "2083203443058172208",
+        "created_at": "2026-07-31T14:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083203443058172208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083203443058172208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "250fo抽奖来了喵😺😺😺\n感谢大家的关心和支持～也不知道大家想要什么就随便抽点喵🥰\n二等奖：疯狂星期四任意一个套餐 *2\n三等奖：网易云/QQ/酷狗/哔哩哔哩vip一个月 *3\n参与奖：3元现金红包 *8\n安慰奖：艾草 *不限\n二等奖品可以直接兑现喵~\n参与方式：关注 点赞 转发，评论随意，感觉好像没什么活粉😿（\n开奖时间：截止至8月3日，使用grok开奖喵~\n最近现实里有些比较重要的事情...以后刷推的时间会减少很多，算是淡推吧😿😿这个抽奖算是给大家最后的🎁了🐱"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "250fo抽奖来了喵😺😺😺\n感谢大家的关心和支持～也不知道大家想要什么就随便抽点喵🥰\n二等奖：疯狂星期四任意一个套餐 *2\n三等奖：网易云/QQ/酷狗/哔哩哔哩vip一个月 *3\n参与奖：3元现金红包 *8\n安慰奖：艾草 *不限\n二等奖品可以直接兑现喵~\n参与方式：关注 点赞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 355,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T12:25:58.000Z",
+        "description": "5:30the car missin'  HRT：2025.12.9\n马列毛主义/从马列角度支持LGBT无产化/偏新左？/现代毛派/反修正主义/反资反帝。广脑给我扣了个重抑中焦的帽子🤔🤔🤔。脱产学生（高中生）努力学习理论克服小资性。 友跨🏳️‍⚧️同类互fo喵。互fo都会回的喵😺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xqzxmarxismclub.com",
+                "end": 23,
+                "expanded_url": "http://xqzxmarxismclub.com",
+                "start": 0,
+                "url": "https://t.co/slB5soX612"
+              }
+            ]
+          }
+        },
+        "id": "1852686868846092288",
+        "location": "Roermond, Nederland",
+        "name": "Physic530🏳️‍⚧️🍥☭",
+        "pinned_tweet_id": "2076410044397314185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 506,
+          "like_count": 6551,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/slB5soX612",
+        "username": "TL_Xingyi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T01:39:45.000Z",
+        "description": "雑魚ざこ♡ | 是ENFP | 友跨 | 偶尔半夜emo | 看情况互fo | 简介不定期更新喵",
+        "id": "1686914633314013184",
+        "location": "-13cm",
+        "name": "千绘莉喵～",
+        "pinned_tweet_id": "2077804269668110515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 216,
+          "like_count": 2723,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "KTD593yug",
+        "verified": false
+      }
+    ]
+  }
+}

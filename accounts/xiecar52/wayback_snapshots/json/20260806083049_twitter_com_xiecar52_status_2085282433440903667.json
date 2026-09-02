@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2085280334556307722",
+    "created_at": "2026-08-06T08:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085282433440903667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2082837353408995329",
+          "start": 0,
+          "username": "lhnjanwoainimen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085282433440903667",
+    "in_reply_to_user_id": "2082837353408995329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085280334556307722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhnjanwoainimen 抱抱喵…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085280334556307722].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085280334556307722",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085280334556307722"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2085280334556307722",
+        "created_at": "2026-08-06T08:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085282433440903667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082837353408995329",
+              "start": 0,
+              "username": "lhnjanwoainimen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085282433440903667",
+        "in_reply_to_user_id": "2082837353408995329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085280334556307722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhnjanwoainimen 抱抱喵…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiecar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiecar",
+                "start": 0,
+                "url": "https://t.co/HDUfmyMB0G"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 360,
+          "like_count": 1254,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 301
+        },
+        "url": "https://t.co/HDUfmyMB0G",
+        "username": "xiecar52",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-30T14:37:14.000Z",
+        "description": "我真的是真人😭\n求求不要再封我的帐号了...\n活跃号@Mak1287267\n一点也不活跃号@mmrnadna2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "Mak1287267"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "mmrnadna2"
+              }
+            ]
+          }
+        },
+        "id": "2082837353408995329",
+        "name": "在断桥边不知道看什么了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082838038854664192/b-Em514M_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 62,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "lhnjanwoainimen",
+        "verified": false
+      }
+    ]
+  }
+}
