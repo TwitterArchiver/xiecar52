@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-23T18:27:53",
+  "last_updated": "2026-09-23T18:28:09",
   "html": {
     "https://web.archive.org/web/20260714172122if_/https://twitter.com/xiecar52/status/2077081029488382395": {
       "status": "done",
@@ -5381,10 +5381,11 @@
       "last_updated": "2026-09-02T17:46:03"
     },
     "https://pbs.twimg.com/profile_images/2032028385405530113/r9jQ0gP5_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260906073208_twitter_com_xiecar52_status_2096501689557922261.json"
-      ]
+      ],
+      "last_updated": "2026-09-23T18:28:09"
     }
   },
   "media": {
@@ -10280,7 +10281,7 @@
       "last_updated": "2026-09-02T17:39:21"
     },
     "20260906073208_twitter_com_xiecar52_status_2096501689557922261.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRfuFmGaoAAdksA.jpg"
@@ -10291,7 +10292,7 @@
           "https://pbs.twimg.com/profile_images/2032028385405530113/r9jQ0gP5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-23T18:27:53"
+      "last_updated": "2026-09-23T18:28:09"
     },
     "20260906105128_twitter_com_xiecar52_status_2096551853689589880.json": {
       "status": "done",
