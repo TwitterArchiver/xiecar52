@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2109074148068889047",
+    "created_at": "2026-10-11T00:43:02.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T01:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109082309421084976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2092217096751161344",
+          "start": 0,
+          "username": "johnyxee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109082309421084976",
+    "in_reply_to_user_id": "2092217096751161344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109074148068889047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johnyxee 早上好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2109074148068889047",
+        "created_at": "2026-10-11T00:43:02.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T01:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109082309421084976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2092217096751161344",
+              "start": 0,
+              "username": "johnyxee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109082309421084976",
+        "in_reply_to_user_id": "2092217096751161344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109074148068889047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnyxee 早上好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092217096751161344",
+        "conversation_id": "2109074148068889047",
+        "created_at": "2026-10-11T00:10:36.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T01:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109074148068889047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109074148068889047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好啊  \n\n有谁早晨睁眼第一件事就先打开了X？\n\nd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiecar.online",
+                "end": 23,
+                "expanded_url": "https://xiecar.online/",
+                "start": 0,
+                "url": "https://t.co/F28513p9sS"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109082309421084976",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 474,
+          "like_count": 2511,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/F28513p9sS",
+        "username": "xiecar52",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T11:47:10.000Z",
+        "description": "",
+        "id": "2092217096751161344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109082132228546827",
+        "name": "john",
+        "pinned_tweet_id": "2107850162425282968",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105090934069428224/9o47dxO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 2539,
+          "like_count": 2246,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1521
+        },
+        "url": "",
+        "username": "johnyxee",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2107742180756631988",
+    "created_at": "2026-10-07T07:57:50.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T08:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107742180756631988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2090037143972593664",
+          "start": 3,
+          "username": "Acetaffyismymom"
+        },
+        {
+          "end": 32,
+          "id": "2069372366963040256",
+          "start": 21,
+          "username": "MikuNot999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107742180756631988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107738504163917875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Acetaffyismymom: @MikuNot999 ∵塔菲不是你爹\n∴你就∉人类(根据生物遗传学)\n又∴你∈人类\n∴所以塔菲不是你爹是伪证\n结论:塔菲是你爹\nQ.E.D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2107742180756631988",
+        "created_at": "2026-10-07T07:57:50.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T08:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107742180756631988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2090037143972593664",
+              "start": 3,
+              "username": "Acetaffyismymom"
+            },
+            {
+              "end": 32,
+              "id": "2069372366963040256",
+              "start": 21,
+              "username": "MikuNot999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107742180756631988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107738504163917875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Acetaffyismymom: @MikuNot999 ∵塔菲不是你爹\n∴你就∉人类(根据生物遗传学)\n又∴你∈人类\n∴所以塔菲不是你爹是伪证\n结论:塔菲是你爹\nQ.E.D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090037143972593664",
+        "conversation_id": "2107666640930566388",
+        "created_at": "2026-10-07T07:43:13.000Z",
+        "display_text_range": [
+          12,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T08:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107738504163917875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069372366963040256",
+              "start": 0,
+              "username": "MikuNot999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107738504163917875",
+        "in_reply_to_user_id": "2069372366963040256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107736955916328994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuNot999 ∵塔菲不是你爹\n∴你就∉人类(根据生物遗传学)\n又∴你∈人类\n∴所以塔菲不是你爹是伪证\n结论:塔菲是你爹\nQ.E.D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiecar.online",
+                "end": 23,
+                "expanded_url": "https://xiecar.online/",
+                "start": 0,
+                "url": "https://t.co/F28513p9sS"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107742180756631988",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 463,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/F28513p9sS",
+        "username": "xiecar52",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:29:21.000Z",
+        "description": "雛草姬/普高理科做題家/INTJ/🍺輕度依賴/不o/🔪🤚🏻🩸/中焦重抑/病毒性角膜炎常發 只反對一些立場錯誤的極端羣體，對大部分人都友好，此號多發些碎碎念，可能很多負能量，但我希望一切都變好，祝大家都能生活順利喵\n一代已隕落:@Acetaffyismydad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Acetaffyismydad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/acetaffyismydad",
+                "end": 23,
+                "expanded_url": "https://ngl.link/acetaffyismydad",
+                "start": 0,
+                "url": "https://t.co/szTYSvKGYp"
+              }
+            ]
+          }
+        },
+        "id": "2090037143972593664",
+        "is_identity_verified": false,
+        "location": "永雛塔菲生產基地",
+        "most_recent_tweet_id": "2107738589266362433",
+        "name": "塔菲是我疊二代機",
+        "pinned_tweet_id": "2103838893317689710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090037143972593664/1787139514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090040489114513408/Vp9HDaFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 575,
+          "like_count": 3550,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/szTYSvKGYp",
+        "username": "Acetaffyismymom",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T10:51:20.000Z",
+        "description": "终有一日，她也会厌弃了在天上与众天使们的唱随之乐，而宁愿去搂抱人间的朽骨……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mikunot999?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@mikunot999?si=nuUr2leviHuaIIZm",
+                "start": 0,
+                "url": "https://t.co/3sKSMX5O2t"
+              }
+            ]
+          }
+        },
+        "id": "2069372366963040256",
+        "is_identity_verified": false,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2107740746187165970",
+        "name": "三玖不是感冒灵🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069372366963040256/1787742296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079161941960916992/Hvv2Mwee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 39,
+          "like_count": 913,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/3sKSMX5O2t",
+        "username": "MikuNot999",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

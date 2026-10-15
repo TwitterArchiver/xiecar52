@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2107288811516698808",
+    "created_at": "2026-10-06T06:39:21.000Z",
+    "display_text_range": [
+      43,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T07:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107360041045283008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1354240498811105281",
+          "start": 0,
+          "username": "KMBismarck4"
+        },
+        {
+          "end": 29,
+          "id": "1697923565478375424",
+          "start": 13,
+          "username": "ru5937395374736"
+        },
+        {
+          "end": 42,
+          "id": "2095672813944492032",
+          "start": 30,
+          "username": "naipowapepe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107360041045283008",
+    "in_reply_to_user_id": "1354240498811105281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107355911799116253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KMBismarck4 @ru5937395374736 @naipowapepe 这tm谁不怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2107288811516698808",
+        "created_at": "2026-10-06T06:39:21.000Z",
+        "display_text_range": [
+          43,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107360041045283008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1354240498811105281",
+              "start": 0,
+              "username": "KMBismarck4"
+            },
+            {
+              "end": 29,
+              "id": "1697923565478375424",
+              "start": 13,
+              "username": "ru5937395374736"
+            },
+            {
+              "end": 42,
+              "id": "2095672813944492032",
+              "start": 30,
+              "username": "naipowapepe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107360041045283008",
+        "in_reply_to_user_id": "1354240498811105281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107355911799116253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMBismarck4 @ru5937395374736 @naipowapepe 这tm谁不怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354240498811105281",
+        "conversation_id": "2107288811516698808",
+        "created_at": "2026-10-06T06:22:56.000Z",
+        "display_text_range": [
+          30,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107355911799116253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1697923565478375424",
+              "start": 0,
+              "username": "ru5937395374736"
+            },
+            {
+              "end": 29,
+              "id": "2095672813944492032",
+              "start": 17,
+              "username": "naipowapepe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107355911799116253",
+        "in_reply_to_user_id": "1697923565478375424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107344643927294242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ru5937395374736 @naipowapepe 你只是怕了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiecar.online",
+                "end": 23,
+                "expanded_url": "https://xiecar.online/",
+                "start": 0,
+                "url": "https://t.co/F28513p9sS"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107360041045283008",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 438,
+          "like_count": 2384,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/F28513p9sS",
+        "username": "xiecar52",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-27T01:31:32.000Z",
+        "description": "",
+        "id": "1354240498811105281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107355911799116253",
+        "name": "KG",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098603359389552640/YigZg8fD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 87,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "KMBismarck4",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-02T10:45:21.000Z",
+        "description": "",
+        "id": "1697923565478375424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107344643927294242",
+        "name": "Ru",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697923565478375424/1790581739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104478342758187009/GjtJ_Q-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 64,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "ru5937395374736",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-04T00:39:32.000Z",
+        "description": "生母弃我，胞兄厌我，世人笑我，似龙非龙，似蛙非蛙，消我泱泱三千恨",
+        "id": "2095672813944492032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107345952629805461",
+        "name": "奶破蛙",
+        "pinned_tweet_id": "2107150489993548219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095672813944492032/1788482464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095673192862109696/4Hq3_INc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 68,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 660,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "naipowapepe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

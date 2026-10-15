@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2107483509199978971",
+    "created_at": "2026-10-07T02:20:13.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T03:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107657218242072925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073422551972466689",
+          "start": 0,
+          "username": "Yzrhgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107657218242072925",
+    "in_reply_to_user_id": "2073422551972466689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107657053380706541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yzrhgg 早上好～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2107483509199978971",
+        "created_at": "2026-10-07T02:20:13.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T03:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107657218242072925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073422551972466689",
+              "start": 0,
+              "username": "Yzrhgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107657218242072925",
+        "in_reply_to_user_id": "2073422551972466689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107657053380706541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yzrhgg 早上好～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073422551972466689",
+        "conversation_id": "2107483509199978971",
+        "created_at": "2026-10-07T02:19:34.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T03:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107657053380706541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2077009828988493824",
+              "start": 0,
+              "username": "xiecar52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107657053380706541",
+        "in_reply_to_user_id": "2077009828988493824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107531297396862996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiecar52 早安&gt;ヮ&lt;⠀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiecar.online",
+                "end": 23,
+                "expanded_url": "https://xiecar.online/",
+                "start": 0,
+                "url": "https://t.co/F28513p9sS"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107657218242072925",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 459,
+          "like_count": 2441,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/F28513p9sS",
+        "username": "xiecar52",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T15:05:34.000Z",
+        "description": "时常感到无聊，欢迎找我聊天\n互fo\n不时发些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%80%80%E5%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%80%80%E5%B1%882/clo",
+                "start": 0,
+                "url": "https://t.co/FB0hVfI0tH"
+              }
+            ]
+          }
+        },
+        "id": "2073422551972466689",
+        "is_identity_verified": false,
+        "location": "梦境 欢迎下边提问",
+        "most_recent_tweet_id": "2107657053380706541",
+        "name": "退屈党人",
+        "pinned_tweet_id": "2074104382912864345",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073422551972466689/1783178530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073424909980901376/ap3GnRYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 235,
+          "like_count": 3984,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/FB0hVfI0tH",
+        "username": "Yzrhgg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

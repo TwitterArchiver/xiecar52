@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077009828988493824",
+    "conversation_id": "2109119146164384025",
+    "created_at": "2026-10-11T03:40:12.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T04:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109126897959653504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2086130299067637761",
+          "start": 0,
+          "username": "AmiyaArkCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109126897959653504",
+    "in_reply_to_user_id": "2086130299067637761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109119146164384025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiyaArkCat 早安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077009828988493824",
+        "conversation_id": "2109119146164384025",
+        "created_at": "2026-10-11T03:40:12.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109126897959653504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2086130299067637761",
+              "start": 0,
+              "username": "AmiyaArkCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109126897959653504",
+        "in_reply_to_user_id": "2086130299067637761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109119146164384025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiyaArkCat 早安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086130299067637761",
+        "conversation_id": "2109119146164384025",
+        "created_at": "2026-10-11T03:09:24.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109119146164384025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109119146164384025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T12:39:19.000Z",
+        "description": "喵。\n互fo 欢迎没事干找我聊天（我要无聊死了）\n防失联小号@xiecar520 ngl开了，欢迎提问喵\nTelegram:https://t.co/SvlMj1KSFy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "xiecar520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiecar",
+                "end": 85,
+                "expanded_url": "http://t.me/xiecar",
+                "start": 62,
+                "url": "https://t.co/SvlMj1KSFy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiecar.online",
+                "end": 23,
+                "expanded_url": "https://xiecar.online/",
+                "start": 0,
+                "url": "https://t.co/F28513p9sS"
+              }
+            ]
+          }
+        },
+        "id": "2077009828988493824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109126897959653504",
+        "name": "xiecar",
+        "pinned_tweet_id": "2079148785356410932",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077009828988493824/1784039844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077032121173151744/HaMYVaEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 475,
+          "like_count": 2519,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/F28513p9sS",
+        "username": "xiecar52",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T16:42:54.000Z",
+        "description": "最好的姐姐：@KanoYumoe\nINFP-T║Pansexual🏳️‍🌈🍥║LGBTQ+全友好\n追逐的那个她到底是是真实的还是影子呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "KanoYumoe"
+              }
+            ]
+          }
+        },
+        "id": "2086130299067637761",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109122539943502142",
+        "name": "猫猫ark🐱🏳️‍⚧️",
+        "pinned_tweet_id": "2107394636851638769",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103720915507044352/80k5dZvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 400,
+          "like_count": 1489,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 872
+        },
+        "url": "",
+        "username": "AmiyaArkCat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
